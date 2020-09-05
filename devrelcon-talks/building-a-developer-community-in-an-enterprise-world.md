@@ -1,10 +1,13 @@
 ---
-description: Laura Cowen (IBM) - DevRelCon London 2015
+description: >-
+  Listen to Laura Cowen as she goes around talking about how she developed a
+  community and DevRel culture in IBM making the organisation understand the
+  needs and expectations of the developers.
 ---
 
 # Building a developer community in an enterprise world
 
-{% embed url="https://www.youtube.com/watch?v=iOmZe3a4i3c&ab\_channel=DevRel" %}
+{% embed url="https://www.youtube.com/watch?v=iOmZe3a4i3c&ab\_channel=DevRel" caption="Laura Cowen \(IBM\) - DevRelCon London 2015" %}
 
 ### Summary
 
