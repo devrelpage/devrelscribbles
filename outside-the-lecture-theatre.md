@@ -14,17 +14,17 @@ description: >-
 ### Summary
 
 * Why
-  * Students are a fantastic audience to get your brand message out, testing out your product  and everything else at a very high engagement rate.
+  * Students are a fantastic audience to get your brand message out, testing out your product and everything else at a very high engagement rate.
   * You need to empower students in your ways helping them learn and understand how to become better developers.
   * Student trust other students, talking to each other about the feedback.
   * Students even become advocates for your brand
   * Although they might not generate revenue instantly, students provide a long term outreach for your business.
   * Students graduate much before you think, work in startups, internships increasing your product reach everywhere.
   * Your documentation does not work until a first-year computer science student reads it and successfully integrate your product.
-  * Even going students are great for recruiment!
+  * Even going students are great for recruitment!
 * How
   * Reaching universities directly is not directly fruitful. You should reach the societies through the departments.
-  * Explore different facebook groups and interact with them
+  * Explore different Facebook groups and interact with them
   * Participate in their events both online and offline.
   * Communicate with them
   * Be fun and interact with them, sharing your knowledge in every aspect and not just talking about your product
@@ -98,7 +98,7 @@ description: >-
   * Explore groups like Hackathon Hackers, Hackathon Hackers Europe, be active in those groups. There are niche groups where you can find your audience and interact with them.
   * Don't worry about being old! Students will love to interact with you.
   * Do fun and games with students - they're great people to have fun with and interact!
-  * Students are going to assume you are superheros! Be chill and interact freely. Don't behave like a business penguin, have fun with them
+  * Students are going to assume you are superheroes! Be chill and interact freely. Don't behave like a business penguin, have fun with them
 
 
 
