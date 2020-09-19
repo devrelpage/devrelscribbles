@@ -14,7 +14,7 @@ description: >-
   * It is the right thing to do for developers but also for the business
   * The documentation is someone's first experience with your product
   * Your documentation is the best marketing material you might have!
-* **3 ways of to lose a dev due to documentation**
+* **3 ways to lose a dev due to documentation**
   * New devs aren't familiar with **code conventions**
   * **Developer environments** are hard
   * New devs **lack context**
@@ -66,7 +66,7 @@ description: >-
       * **Solution:** Add a few sentences at the beginning of the quickstart and tutorials. Include key activities.
     * **Your docs are expansive and hard for a new dev to navigate**
       * **Solution:** Provide use cases for your product and use them to guide developers through your documentation
-    * **Your docs are hard to find or your product requires sign up to test**
+    * **Your docs are hard to find or your product requires signing up to test**
       * **Solution:** Create a sandbox
 * _**What you can do to fix this tomorrow?**_
 
