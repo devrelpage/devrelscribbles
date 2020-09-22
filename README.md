@@ -8,7 +8,7 @@ As this repository grows, we will have a curated list of DevRel talks, segmented
 
 My aim is to keep this repository open source and free to use for anyone in the community. The support and contributions here would be the thing driving it forward. Let me know if you're willing to help!
 
-Questions/ Comments are always welcome! Reach out to me [directly](mailto:hi@devrel.page) or [submit an issue](https://github.com/yashovardhan/devrelscribbles/issues/new/choose)!
+#### Questions/ Comments are always welcome! Reach out to me [directly](mailto:hi@devrel.page) or [submit an issue](https://github.com/yashovardhan/devrelscribbles/issues/new/choose)!
 
 ### Looking to submit a DevRel Talk/ Podcast to be covered here? Feel free to [submit an issue](https://github.com/yashovardhan/devrelscribbles/issues/new?assignees=yashovardhan&labels=&template=request-to-add-a-talk-in-devrel-scribbles.md&title=Add+a+talk+in+DevRel+Scribbles)!
 
