@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What are Scribbles?](README.md)
+* [Getting Started](getting-started.md)
 
 ## DevRelCon Talks
 
