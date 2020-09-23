@@ -12,5 +12,5 @@ Our aim is to keep this repository open source and free to use for anyone in the
 
 #### Questions/ Comments are always welcome! Reach out to [@yashovardhan directly](mailto:hi@devrel.page) or [submit an issue](https://github.com/yashovardhan/devrelscribbles/issues/new/choose)!
 
-### Looking to submit a DevRel Talk/ Podcast to be covered here? Feel free to [submit an issue](https://github.com/yashovardhan/devrelscribbles/issues/new?assignees=yashovardhan&labels=&template=request-to-add-a-talk-in-devrel-scribbles.md&title=Add+a+talk+in+DevRel+Scribbles)!
+### Looking to submit a DevRel Talk/ Podcast to be covered here? Feel free to [submit an issue](https://github.com/devrelpage/devrelscribbles/issues/new/choose)!
 
