@@ -1,8 +1,8 @@
 ---
 description: >-
   Christiano Betta talks about the importance of creating different tools and
-  collecting metrics especially for startups helping them grow more with a small
-  team!
+  collecting metrics, especially for startups helping them grow more with a
+  small team!
 ---
 
 # Tooling your way to a great DevRel Team
