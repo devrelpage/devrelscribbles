@@ -28,3 +28,7 @@ description: >-
 
 > Christiano Betta talks about the importance of creating different tools and collecting metrics, especially for startups helping them grow more with a small team!
 
+{% page-ref page="miscellaneous/distributed-developer-relations.md" %}
+
+> Brandon West from Amazon AWS talks about how to manage a distributed developer relations team, especially where each person on the team tends to travel a lot.
+
