@@ -10,7 +10,7 @@ description: >-
 
 ## Summary
 
-### **Create Inclusive documentation** 
+### **Create Inclusive documentation**
 
 * It is the right thing to do for developers but also for the business
 * The documentation is someone's first experience with your product
