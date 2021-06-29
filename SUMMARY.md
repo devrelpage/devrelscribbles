@@ -11,6 +11,7 @@
 ## Community Management
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
+* [Managing communities at scale](community-management/managing-communities-at-scale.md)
 
 ## Miscellaneous
 
