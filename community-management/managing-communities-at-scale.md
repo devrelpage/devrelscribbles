@@ -5,7 +5,7 @@ description: >-
   with Ben Lang, Community Lead at Notion.
 ---
 
-# Managing communities at scale
+# Managing communities at scale \(Orbit's Community Camp\)
 
 ![](../.gitbook/assets/image.png)
 

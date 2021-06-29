@@ -4,7 +4,7 @@ description: >-
   what worked for them.
 ---
 
-# How we started building communities?
+# How did we start building communities? \(Orbit's Community Camp\)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
@@ -48,9 +48,13 @@ really really excited to hear what they're building at CoMunity! Julia moved int
 ![](../.gitbook/assets/image%20%284%29.png)
 
 _**@robfitz**_ —   
-author of the mom test! and by the way, someone who just crossed a community milestone this week!
+author of the mom test! and by the way, someone who just crossed a community milestone this week! _****_
+
+_\*\*\*\*_
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
- _**@dmonn**_
+ _**@dmonn --**_
+
+_\*\*\*\*_
 
