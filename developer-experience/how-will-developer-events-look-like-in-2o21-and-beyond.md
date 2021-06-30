@@ -18,3 +18,28 @@ description: >-
 
 ![Speakers](../.gitbook/assets/screenshot-2021-06-30-at-10.48.23-pm.png)
 
+
+
+Online event opportunities: \(some points might be repeated\)
+
+* Acessible.
+* Cheaper.
+* Logistic ease.
+* Low barriers to entry.
+* Less risky.
+* Lots of room for creativity without investing a lot.
+* More room for creativity without limitations of physical space.
+* More option to comfortably interact \(Text chat, audio, video\)
+* GREAT MEMES ONLINE!
+* Online events attract more people.
+* People overcome hesitation to attend.
+* More comfortable online - you can choose your own engagement level.
+* People who have mobility issues can attend \(excellent point\)
+* Speakers always turn up.
+
+**Hybrid Events:** 
+
+**Emilia:** - Events are social experiences, talks are important but not the main thing. - Harder to bridge gap between in-person and online. - For Emilia, online and in-person would serve different purposes.   
+**Jon:** - Depends on the nature of the event. Easy for hackathons, harder for conferences. - Serendipity online vs in-person may not have a lot of overlap. - We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.   
+**Suze:** - Challeneges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people cant go to bars for example. - Inclusive timings is still a challenge.\[22:19\]everyone's being cautious about hybrid events!
+
