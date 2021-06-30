@@ -14,6 +14,7 @@
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
 * [Managing communities at scale \(Orbit's Community Camp\)](community-management/managing-communities-at-scale.md)
 * [How did we start building communities? \(Orbit's Community Camp\)](community-management/how-we-started-building-communities.md)
+* [What are useful community metrics?](community-management/what-are-useful-community-metrics.md)
 
 ## Miscellaneous
 
