@@ -20,7 +20,7 @@ description: >-
 
 Online event opportunities: \(some points might be repeated\)
 
-* Acessible.
+* Accessible.
 * Cheaper.
 * Logistic ease.
 * Low barriers to entry.
