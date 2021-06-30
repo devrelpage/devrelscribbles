@@ -16,3 +16,5 @@ description: >-
 
 ​**Suze Shardlow** \([@SuzeShardlow](https://twitter.com/SuzeShardlow)\) is a multi-award-winning tech community manager, technical author, event MC and coding instructor. She is the online event and community host for CFE.dev, a Florida-based virtual meetup and technical training company. As Community Lead for Ladies of Code London, Suze manages the Slack community and, during COVID-19, has so far delivered 250+ hours of live tech content including weekly online co-working sessions and fireside career chats with women in tech for a meetup and YouTube series. She curated and MCd the six-hour live stream for Global Diversity CFP Day 2021, is a community host and a moderator for the Leapers freelancers' Slack and teaches coding to university lecturers.
 
+![Speakers](../.gitbook/assets/screenshot-2021-06-30-at-10.48.23-pm.png)
+
