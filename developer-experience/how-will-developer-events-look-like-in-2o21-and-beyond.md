@@ -18,8 +18,6 @@ description: >-
 
 ![Speakers](../.gitbook/assets/screenshot-2021-06-30-at-10.48.23-pm.png)
 
-
-
 Online event opportunities: \(some points might be repeated\)
 
 * Acessible.
