@@ -34,7 +34,7 @@ How can you continue to deliver value? **through rituals + an active practice.**
 _**@gabysslave**_ --   
 really really excited to hear what they're building at CoMunity! Julia moved into an area where most folks didn't have wifi! and bridging this technology barrier was interesting. — Julia realized that her family was harder to connect to the greater world and network.
 
-* How can we apply this approach to more modern communities? Also — Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "You have to build for the edges, you have to build for the people." And then understanding your audience's needs, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something" --- love this
+* How can we apply this approach to more modern communities? Also — Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "You have to build for the edges, you have to build for the people." And then understanding your audience's needs, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something".
 * Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs.
 * Can we say Julia is emphasizing "Human first" instead of "Digital first"?
 * Building community resilience is considered in this — centring in storytelling less in the tech.
@@ -56,7 +56,16 @@ _\*\*\*\*_
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
- _**@dmonn --**_
+ _**@dmonn --**_  
+didn't really plan or intend for a community when he started — but saw the value of mentors firsthand.
+
+* Now did he prevent the community from getting _too big?_ mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
+* Do we say that @dmonn didn't set out to build a community but stumbled upon THE NEED for a community? Like discounts aren't necessarily driving this community — questions and a genuine interest to learn really impacted the community first and foremost. where there was no interaction between members — over time he was able to really lean into the combined knowledge of his community? covering from scratch why a community is actually useful? \(edited\)
+* Q: does info get lost in slack? A: I'm not a big fan of slack — but in my thoughts communities can thrive on any platform. Slack can lose things — have an external worksheet or database for materials.
+* Mentorship and finding mentorship can be driven by specifics — there's so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
+* @dmonn mentioned "Connecting mentors and mentees is what we do and our success IMO. Every time a mentorship is formed, it‘s a win for us. Mentors do one part \(profile, mentoring, service description\) we do the other \(traffic, trust\)".
+
+
 
 _\*\*\*\*_
 
