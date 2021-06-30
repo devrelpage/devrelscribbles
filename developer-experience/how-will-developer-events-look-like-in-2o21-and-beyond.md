@@ -4,7 +4,7 @@ description: >-
   future of gathering.
 ---
 
-# How will developer events look like in 2o21 and beyond 🤔 ⁉️
+# How will developer events look like in 2o21 and beyond 🤔 ⁉️ \(Orbit's Community Camp\)
 
 ![](../.gitbook/assets/screenshot-2021-06-30-at-10.10.14-pm.png)
 
@@ -18,7 +18,7 @@ description: >-
 
 ![Speakers](../.gitbook/assets/screenshot-2021-06-30-at-10.48.23-pm.png)
 
-Online event opportunities: \(some points might be repeated\)
+**Online event opportunities**:
 
 * Accessible.
 * Cheaper.
@@ -35,9 +35,25 @@ Online event opportunities: \(some points might be repeated\)
 * People who have mobility issues can attend \(excellent point\)
 * Speakers always turn up.
 
+\*\*\*\*
+
 **Hybrid Events:** 
 
 **Emilia:** - Events are social experiences, talks are important but not the main thing. -- Harder to bridge the gap between in-person and online. - For Emilia, online and in-person would serve different purposes.   
 **Jon:** - Depends on the nature of the event. Easy for hackathons, harder for conferences. - Serendipity online vs in-person may not have a lot of overlap. - We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.   
-**Suze:** - Challenges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people can't go to bars for example. - Inclusive timings is still a challenge.\[22:19\]everyone's being cautious about hybrid events!
+**Suze:** - Challenges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people can't go to bars for example. - Inclusive timings are still a challenge ****everyone's being cautious about hybrid events!
+
+\*\*\*\*
+
+**Q: How can we get more people to attend events?**
+
+* Try to think more about reach than attendance.
+* Reusing assets from events afterwards. 
+* Online events might have greater reach post-event, youtube videos for example. - Low attendance could be because of Zoom fatigue. 
+* Rethink online event as not just a Zoom call, but maybe say as a Youtube playlist. Async vs Sync. 
+* People look for social aspects in events, if that can be replicated online, then it might be helpful.
+
+
+
+One of the main things to always remember is that each event -- online, hybrid or physical, it's those little decisions made by the core team that can eventually make the event successful and now it depends on how you set the metrics for success.
 
