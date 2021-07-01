@@ -27,7 +27,32 @@ Metrics depends on the questions we're asking. We need to ask why first. Why do 
 * What is a useful success metric?
   * it depends, where you are, what state you are at
   * if you go down the metrics you want to have, you are missing the point.
-  * what answers are you trying to solve?
+  * what answers are you trying to solve? 
+* What advice or thoughts do you have about setting metrics for the first time?
+
+  * Start Small
+    *  Ask: What your community is capable of?
+    * Keep challenging yourself.
+  * Establish a baseline
+  * Build from there
+  * Find areas of growth.
+  * Establish a focus on where to grow.
+  * Use vanity metrics as an exploration point, investigate and dig deeper.
+
+* Explain why metrics matter and that people know why you are tracking it.
+
+  * Provide context to each metric. 
+  * "Why is this metric important?" 
+  * "How does it align with business goals" 
+  * "What decisions will this metric help us make?"
+
+* "Numbers are in their raw form are uninteresting — tell a story, show an impact or result"
+  * Here's what we are doing. 
+  * Here's the success. 
+  * Here's the impact on the company. 
+  * Here's the impact it had on the community. 
+
+
 
   
 
