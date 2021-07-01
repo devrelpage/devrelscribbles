@@ -2,7 +2,7 @@
 description: Metrics - Community - Success
 ---
 
-# What are useful community metrics? \(In progress\)
+# What are useful community metrics?
 
 ![](../.gitbook/assets/screenshot-2021-07-01-at-12.16.47-am.png)
 
@@ -20,6 +20,8 @@ The difficulty for developer relations has always been how to collect quantitati
 
 
 **The first thing you will hear from any experienced person about metrics is "It depends" -- "It totally depends", plus they also might give a smirk or say "ufffff", cause this is one of the hardest questions out there.**   
+Metrics depends on the questions we're asking. We need to ask why first. Why do we need metrics? Where we are? What are the problems we are trying to solve?
+
   
 
 
