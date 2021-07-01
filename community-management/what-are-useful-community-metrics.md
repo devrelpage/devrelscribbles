@@ -8,7 +8,7 @@ description: Metrics - Community - Success
 
 The difficulty for developer relations has always been how to collect quantitative data to demonstrate value, and most teams approach this in different ways based on team size and company stage. Join us as we examine what tales you can tell to assist leadership to understand what you do, which ones are beneficial, and why data presentation is so important.
 
-**Speakers:**
+**🎙 Speakers:**
 
 **Jeremy Meiss** \([@IAmJerdog](https://twitter.com/IAmJerdog)\) is the Director of DevRel & Community at CircleCI, formerly at Solace, Auth0 and XDA. He is active in the DevRel community and is a co-creator of DevOpsPartyGames. A lover of all things coffee, community, open-source, and tech, he is also house-broken, and \(generally\) plays well with others.
 
@@ -21,6 +21,13 @@ The difficulty for developer relations has always been how to collect quantitati
 
 **The first thing you will hear from any experienced person about metrics is "It depends" -- "It totally depends", plus they also might give a smirk or say "ufffff", cause this is one of the hardest questions out there.**   
 Metrics depends on the questions we're asking. We need to ask why first. Why do we need metrics? Where we are? What are the problems we are trying to solve?
+
+### Scribbles:
+
+* What is a useful success metric?
+  * it depends, where you are, what state you are at
+  * if you go down the metrics you want to have, you are missing the point.
+  * what answers are you trying to solve?
 
   
 
