@@ -4,7 +4,7 @@ description: >-
   future of gathering.
 ---
 
-# How will developer events look like in 2o21 and beyond 🤔 ⁉️ \(Orbit's Community Camp\)
+# How will developer events look like in 2o21 and beyond 🤔
 
 ![](../.gitbook/assets/screenshot-2021-06-30-at-10.10.14-pm.png)
 

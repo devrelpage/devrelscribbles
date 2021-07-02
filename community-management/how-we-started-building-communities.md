@@ -4,7 +4,7 @@ description: >-
   what worked for them.
 ---
 
-# How did we start building communities? \(Orbit's Community Camp\)
+# How did we start building communities?
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
