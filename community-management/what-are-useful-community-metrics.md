@@ -54,7 +54,7 @@ Metrics depends on the questions we're asking. We need to ask why first. Why do 
 * @joeansh-- When it comes to community designing-think of it as system-owned feedback loops.  
 * Community members want to get some value, a useful way to look at engagement would be tracking activities that provide that value to the members.  
 * Instead of building up a huge infrastructure — how can you run smaller, more mindful tests to test out if your metrics are measuring the right things.\[02:08\]How do you know if a metric isn't working? How do you know if a metric isn't working?  Look at the type of community we want to serve, and how is it compared to the community that we're actively serving. 
-* 
+* There is a lifecycle of community and members, and that's ok. "Once you solve their problem, they will drop out and may never come back. That is just the natural lifecycle and it is important to understand that."  
 
 
 
