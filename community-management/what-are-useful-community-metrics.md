@@ -54,7 +54,22 @@ Metrics depends on the questions we're asking. We need to ask why first. Why do 
 * @joeansh-- When it comes to community designing-think of it as system-owned feedback loops.  
 * Community members want to get some value, a useful way to look at engagement would be tracking activities that provide that value to the members.  
 * Instead of building up a huge infrastructure — how can you run smaller, more mindful tests to test out if your metrics are measuring the right things.\[02:08\]How do you know if a metric isn't working? How do you know if a metric isn't working?  Look at the type of community we want to serve, and how is it compared to the community that we're actively serving. 
-* There is a lifecycle of community and members, and that's ok. "Once you solve their problem, they will drop out and may never come back. That is just the natural lifecycle and it is important to understand that."  
+* There is a lifecycle of community and members, and that's ok. "Once you solve their problem, they will drop out and may never come back. That is just the natural lifecycle and it is important to understand that." 
+* Q: Can everyone talk about the most successful metric they can remember off the top of their head. Why did it work? what was the context it worked in?  
+  @**Mary**: 
+
+  * Dev-rel Qualified Leads
+  *  Listen to the community first before your sales pitch.
+
+  **@Matthew**: Leads.
+
+  **@Joe**: Number of commits made by Github student users.  
+
+* Community is 
+
+  * not marketing
+  * not sales
+  * not an audience   
 
 
 
