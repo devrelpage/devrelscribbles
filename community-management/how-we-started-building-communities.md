@@ -48,7 +48,13 @@ really really excited to hear what they're building at CoMunity! Julia moved int
 ![](../.gitbook/assets/image%20%284%29.png)
 
 _**@robfitz**_ —   
-author of the mom test! and by the way, someone who just crossed a community milestone this week! _****_
+author of the mom test! Community building has always come naturally to Rob, at the same time he has always approached it from a business perspective. A little fun fact -- he started his paid community without really planning for it or when he felt he was ready. 
+
+* One of the first questions rob addressed was about "Why would someone want to join a community"? He answered saying to get some value from the community. One thing I understood is that this might be a short line but definitely defines the first "win" for your community. Finding ways that we can give people an early win is so important! 
+* Defining this "win" early on can be challenging, as many community builders find out how they can actually provide value to their fellow community members after they start with their communities, but @robfitz figured it out in the start itself.
+* Different people want different things and different journeys! Knowing that your community members will eventually have different goals and take different paths to achieve them, would lead to different lifecycles of community engagement for individual members.
+* Community members are actually solving each other's problems — @robfitz essentially works to put himself out of a role and tagging community members in where needed!
+* Resist as a community leader the urge to answer ALL questions. This reminds me of leadership tips I've heard - great leaders create leaders, so Rob would mean letting other leaders emerge from within your community.   
 
 _\*\*\*\*_
 
@@ -62,7 +68,7 @@ didn't really plan or intend for a community when he started — but saw the val
 * Now did he prevent the community from getting _too big?_ mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
 * Do we say that @dmonn didn't set out to build a community but stumbled upon THE NEED for a community? Like discounts aren't necessarily driving this community — questions and a genuine interest to learn really impacted the community first and foremost. where there was no interaction between members — over time he was able to really lean into the combined knowledge of his community? covering from scratch why a community is actually useful? \(edited\)
 * Q: does info get lost in slack? A: I'm not a big fan of slack — but in my thoughts communities can thrive on any platform. Slack can lose things — have an external worksheet or database for materials.
-* Mentorship and finding mentorship can be driven by specifics — there's so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
+* Mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
 * @dmonn mentioned "Connecting mentors and mentees is what we do and our success IMO. Every time a mentorship is formed, it‘s a win for us. Mentors do one part \(profile, mentoring, service description\) we do the other \(traffic, trust\)".
 
 
