@@ -1,7 +1,8 @@
 ---
 description: >-
   Range of developer event organizers to discuss what they see as being the
-  future of gathering.
+  future of gathering, talking about how event will look like in 2021,
+  especially talking about pro's and con's of
 ---
 
 # How will developer events look like in 2o21 and beyond 🤔
@@ -9,6 +10,10 @@ description: >-
 ![](../.gitbook/assets/screenshot-2021-06-30-at-10.10.14-pm.png)
 
 ## Summary: 
+
+* One of the main things to always remember is that each event -- online, _**hybrid or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_. 
+* 
+
 
 
 
@@ -18,7 +23,7 @@ description: >-
 
 ## Scribbles
 
-### **Online event opportunities**:
+### **Online Event**
 
 * Accessible.
 * Cheaper.
@@ -37,23 +42,23 @@ description: >-
 
 \*\*\*\*
 
-### **Hybrid Events:** 
+### **Hybrid Events** 
 
-**Emilia:** - Events are social experiences, talks are important but not the main thing. -- Harder to bridge the gap between in-person and online. - For Emilia, online and in-person would serve different purposes.   
-**Jon:** - Depends on the nature of the event. Easy for hackathons, harder for conferences. - Serendipity online vs in-person may not have a lot of overlap. - We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.   
-**Suze:** - Challenges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people can't go to bars for example. - Inclusive timings are still a challenge ****everyone's being cautious about hybrid events!
+* **Emilia:** - Events are social experiences, talks are important but not the main thing. -- Harder to bridge the gap between in-person and online. - For Emilia, online and in-person would serve different purposes.  
+* **Jon:** - Depends on the nature of the event. Easy for hackathons, harder for conferences. - Serendipity online vs in-person may not have a lot of overlap. - We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.  
+* **Suze:** - Challenges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people can't go to bars for example. - Inclusive timings are still a challenge ****everyone's being cautious about hybrid events!
 
 \*\*\*\*
 
 ### **How can we get more people to attend events?**
 
-* Try to think more about reach than attendance.
-* Reusing assets from events afterwards. 
-* Online events might have greater reach post-event, youtube videos for example. - Low attendance could be because of Zoom fatigue. 
-* Rethink online event as not just a Zoom call, but maybe say as a Youtube playlist. Async vs Sync. 
+* Try to think more about reach than attendance. 
+* Reusing assets from events afterwards.  
+* Online events might have greater reach post-event, youtube videos for example. - Low attendance could be because of Zoom fatigue.  
+* Rethink online event as not just a Zoom call, but maybe say as a Youtube playlist. Async vs Sync.  
 * People look for social aspects in events, if that can be replicated online, then it might be helpful.
 
 
 
-One of the main things to always remember is that each event -- online, hybrid or physical, it's those little decisions made by the core team that can eventually make the event successful and now it depends on how you set the metrics for success.
+
 
