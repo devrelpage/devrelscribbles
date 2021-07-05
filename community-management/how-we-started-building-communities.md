@@ -8,9 +8,9 @@ description: >-
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-### _4 Speakers - How they started with their communities and why?_
+## Summary
 
-\_\_
+### _4 Speakers - How they started with their communities and why?_
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
