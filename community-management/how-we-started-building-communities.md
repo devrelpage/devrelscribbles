@@ -20,10 +20,6 @@ description: >-
 * 
 \_\_
 
-\_\_
-
-\_\_
-
 ## Scribbles
 
 ### Speaker 1 - _@DruRly_
@@ -45,6 +41,8 @@ description: >-
 
 
 
+
+
 ### Speaker 2 - _**@gabysslave**_
 
 ![](../.gitbook/assets/image%20%283%29.png)
@@ -53,15 +51,20 @@ description: >-
 
 #### How can we apply this approach to more modern communities?  
 
-* Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs. 
+> Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience.
 
+* This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. 
+* We have to figure those details based on our audience's needs. 
 
+#### 🚩 Takeaways 
 
 * Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "_**You have to build for the edges, you have to build for the people**_."
-* _**Understanding your audience's needs**_, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something".
-* Julia is emphasizing "Human first" instead of "Digital first"?
-* Building community resilience is considered in this — centring in storytelling less in the tech.
-* Community Funerals in the newsletter — which is such a beautiful of actually understanding what her community needs. Julia shows so much empathy, it's so beautiful to see.
+* _**Understanding your audience's needs**_, making a physical newsletter instead of a digital one - that's human-centered design. Build for folks who may not understand something".
+* Julia is _**emphasizing "Human first"**_ instead of "Digital first"?
+* Building _**community resilience**_ is considered in this — _**centering in storytelling less in the tech**_.
+* Community Funerals in the newsletter — which is such a beautiful of actually _**understanding what her community needs**_. Julia shows so much empathy, it's so beautiful to see.
+
+
 
 
 
@@ -69,10 +72,15 @@ description: >-
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-  
-author of the mom test! Community building has always come naturally to Rob, at the same time he has always approached it from a business perspective. A little fun fact -- he started his paid community without really planning for it or when he felt he was ready. 
+* author of the mom test! Community building has always come naturally to Rob, at the same time he has always approached it from a business perspective.
+* A little fun fact -- he started his paid community without really planning for it or when he felt he was ready. 
 
-* One of the first questions rob addressed was about "Why would someone want to join a community"? He answered saying to get some value from the community. One thing I understood is that this might be a short line but definitely defines the first "win" for your community. Finding ways that we can give people an early win is so important! 
+#### Why would someone want to join a community?
+
+> To get some value from the community. One thing I understood is that this might be a short line but definitely defines the first "win" for your community. Finding ways that we can give people an early win is so important!
+
+#### 🚩 Takeaways 
+
 * Defining this "win" early on can be challenging, as many community builders find out how they can actually provide value to their fellow community members after they start with their communities, but @robfitz figured it out in the start itself.
 * Different people want different things and different journeys! Knowing that your community members will eventually have different goals and take different paths to achieve them, would lead to different lifecycles of community engagement for individual members.
 * Community members are actually solving each other's problems — @robfitz essentially works to put himself out of a role and tagging community members in where needed!
