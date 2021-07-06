@@ -62,9 +62,11 @@ description: >-
 
 
 
+### **Speaker 3 -** _**@robfitz**_
+
 ![](../.gitbook/assets/image%20%284%29.png)
 
-_**@robfitz**_ —   
+  
 author of the mom test! Community building has always come naturally to Rob, at the same time he has always approached it from a business perspective. A little fun fact -- he started his paid community without really planning for it or when he felt he was ready. 
 
 * One of the first questions rob addressed was about "Why would someone want to join a community"? He answered saying to get some value from the community. One thing I understood is that this might be a short line but definitely defines the first "win" for your community. Finding ways that we can give people an early win is so important! 
