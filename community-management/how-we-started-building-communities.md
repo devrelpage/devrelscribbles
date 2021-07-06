@@ -47,9 +47,9 @@ description: >-
 
 ### Speaker 2 - _**@gabysslave**_
 
-* really really excited to hear what they're building at CoMunity! Julia moved into an area where most folks didn't have wifi! and bridging this technology barrier was interesting. — Julia realized that her family was harder to connect to the greater world and network.
-
 ![](../.gitbook/assets/image%20%283%29.png)
+
+* really really excited to hear what they're building at CoMunity! Julia moved into an area where most folks didn't have wifi! and bridging this technology barrier was interesting. — Julia realized that her family was harder to connect to the greater world and network.
 
 #### How can we apply this approach to more modern communities?  
 
