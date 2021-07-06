@@ -11,10 +11,10 @@ description: >-
 
 ## Summary
 
-* Notion's growth for a SaaS product has been commendable, especially over the last few years. 
-* Unlike many SaaS products and companies out there, Notion stands out for its interesting artwork, characters, templates and massive community throughout the 🌏 ! 
-* The community for Notion played a huge part in their growth, like any other company, when they got such an overwhelming response from the community side, rather than doing nothing about it, they tried to sit down with the leads and conversing about the situation and how they could make them feel more empowered. 
-* Notion then rolled out their ambassador program and then rest my friends, is history. 
+* Notion really focused on _**top of funne**_l i.e. _**user acquisition**_. 
+* From there, _**Ambassador program**_ proved useful in building community. 
+* _**Educating**_ the community. 
+* _**Identifying power users**_, and making the power users feel valued. 
 
 ## Scribbles
 
