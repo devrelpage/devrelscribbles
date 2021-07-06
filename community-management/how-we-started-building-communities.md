@@ -10,9 +10,10 @@ description: >-
 
 ## Summary
 
+#### _4 Speakers - How they started with their communities and why?_
 
-
-### _4 Speakers - How they started with their communities and why?_
+* 
+\_\_
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
