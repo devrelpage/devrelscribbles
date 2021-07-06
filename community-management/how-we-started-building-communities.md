@@ -98,15 +98,11 @@ description: >-
 
 * Over time he was able to really lean into the combined knowledge of his community. 
 
-
-
-* Mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind. 
-
 #### **Does info get lost in slack?**
 
 > ####  I'm not a big fan of slack — but in my thoughts communities can thrive on any platform. Slack can lose things — have an external worksheet or database for materials.
 
-####  
+#### 
 
 * Mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
 * @dmonn mentioned "Connecting mentors and mentees is what we do and our success IMO. Every time a mentorship is formed, it‘s a win for us. Mentors do one part \(profile, mentoring, service description\) we do the other \(traffic, trust\)".
