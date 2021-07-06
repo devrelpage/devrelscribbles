@@ -53,19 +53,12 @@ description: >-
 
 #### How can we apply this approach to more modern communities?  
 
-  
-Also — Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "You have to build for the edges, you have to build for the people." And then understanding your audience's needs, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something".
-
-* Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs.
-* Can we say Julia is emphasizing "Human first" instead of "Digital first"?
+* Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs.  
+* Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "_**You have to build for the edges, you have to build for the people**_."
+* _**Understanding your audience's needs**_, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something".
+* Julia is emphasizing "Human first" instead of "Digital first"?
 * Building community resilience is considered in this — centring in storytelling less in the tech.
 * Community Funerals in the newsletter — which is such a beautiful of actually understanding what her community needs. Julia shows so much empathy, it's so beautiful to see.
-
-
-
-* **Summary**: Understand. Your. Audience. Don't force your solutions on them, but let the data tell you what would work. Your goal is not to use a specific tool, your goal is to build a community, to connect human beings with each other. Their needs come first.
-
-
 
 
 
