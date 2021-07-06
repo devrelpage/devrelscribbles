@@ -2,7 +2,7 @@
 description: >-
   Range of developer event organizers to discuss what they see as being the
   future of gathering, talking about how event will look like in 2021,
-  especially talking about pro's and con's of
+  especially talking about pro's and con's.
 ---
 
 # How will developer events look like in 2o21 and beyond 🤔
