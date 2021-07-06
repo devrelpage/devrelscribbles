@@ -25,11 +25,7 @@ description: >-
 * _**Fostering better relationships with core users**_ - making people who already value your product feel valued.
 * _**Word of mouth**_ is still a very reliable and trustworthy tool that can be leveraged by building genuine community leads.
 * Notion _**employees favorite**_ Notion tool? -- keyboard shortcuts, callouts, toggles, 
-* _**Notion's unique artwork**_ has helped achieve a _**unique branding**_ of its own. It has also become a huge marketplace for templates, logos, characters and all sorts of artwork inspired by existing Notion's theme. 
-
-
-
-
+* _**Notion's unique artwork**_ has helped achieve a _**unique branding**_ of its own. It has also become a huge marketplace for templates, logos, characters and all sorts of artwork inspired by existing Notion's theme.  
 
 ### Leveraging ambassador programs for marketing
 
