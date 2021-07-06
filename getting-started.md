@@ -12,9 +12,19 @@ description: >-
 
 > Listen to Laura Cowen as she goes around talking about how she developed a community and DevRel culture in IBM making the organisation understand the needs and expectations of the developers.
 
+
+
 {% page-ref page="developer-experience/how-to-lose-a-dev-in-three-ways.md" %}
 
 > Jamie Wittenberg talks about great ways you can incorporate to make your documentation better and more accessible to new developers.
+
+
+
+{% page-ref page="developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md" %}
+
+
+
+
 
 ### Community Management
 
