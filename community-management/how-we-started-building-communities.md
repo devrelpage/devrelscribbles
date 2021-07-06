@@ -96,9 +96,7 @@ description: >-
 
 #### Why prevent the community where there is no interaction from members from getting too big? __
 
-* Over time he was able to really lean into the combined knowledge of his community.
-
-
+* Over time he was able to really lean into the combined knowledge of his community. 
 
 
 
