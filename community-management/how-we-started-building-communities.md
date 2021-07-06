@@ -4,7 +4,7 @@ description: >-
   what worked for them.
 ---
 
-# How did we start building communities?
+# How did they start building communities?👀
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
@@ -86,14 +86,11 @@ description: >-
 * Community members are actually solving each other's problems — @robfitz essentially works to put himself out of a role and tagging community members in where needed!
 * Resist as a community leader the urge to answer ALL questions. This reminds me of leadership tips I've heard - great leaders create leaders, so Rob would mean letting other leaders emerge from within your community.   
 
-_\*\*\*\*_
-
-_\*\*\*\*_
+### Speaker 4 - _**@dmonn**_
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
- _**@dmonn --**_  
-didn't really plan or intend for a community when he started — but saw the value of mentors firsthand.
+
 
 * Now did he prevent the community from getting _too big?_ mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
 * Do we say that @dmonn didn't set out to build a community but stumbled upon THE NEED for a community? Like discounts aren't necessarily driving this community — questions and a genuine interest to learn really impacted the community first and foremost. where there was no interaction between members — over time he was able to really lean into the combined knowledge of his community? covering from scratch why a community is actually useful? \(edited\)

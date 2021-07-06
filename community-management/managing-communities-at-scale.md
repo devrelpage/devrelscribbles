@@ -11,7 +11,7 @@ description: >-
 
 ## Summary
 
-* Notion really focused on _**top of funne**_l i.e. _**user acquisition**_. 
+* Notion really focused on _**top of funnel**_ i.e. _**user acquisition**_. 
 * From there, _**Ambassador program**_ proved useful in building community. 
 * _**Educating**_ the community. 
 * _**Identifying power users**_, and making the power users feel valued. 

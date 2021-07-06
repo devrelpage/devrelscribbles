@@ -13,7 +13,7 @@
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
 * [Managing communities at scale 📈](community-management/managing-communities-at-scale.md)
-* [How did we start building communities?](community-management/how-we-started-building-communities.md)
+* [How did they start building communities?👀](community-management/how-we-started-building-communities.md)
 * [What are useful community metrics?](community-management/what-are-useful-community-metrics.md)
 * [How to grow a healthy Open-Source community?](community-management/how-to-grow-and-healthy-open-source-community.md)
 
