@@ -53,7 +53,10 @@ description: >-
 
 #### How can we apply this approach to more modern communities?  
 
-* Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs.  
+* Basics remain the same, keeping people connected, communicating with them. What Julia reminds me is that a mediator might not work that well had she kept pushing a digital newsletter or some tech solution without understanding the audience. WOW. Connecting digital with analogue! This is a great way to bring tech to people using technologies they are familiar with. um is just that, a medium. We have to figure those details based on our audience's needs. 
+
+
+
 * Julia delivered 150 newsletters by hand if I heard that correctly! Wow! " you have to build for the edges — you have to "_**You have to build for the edges, you have to build for the people**_."
 * _**Understanding your audience's needs**_, making a physical newsletter instead of a digital one - that's human-centred design. Build for folks who may not understand something".
 * Julia is emphasizing "Human first" instead of "Digital first"?
