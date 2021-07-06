@@ -15,6 +15,18 @@ description: >-
 * 
 \_\_
 
+\_\_
+
+\_\_
+
+## Scribbles
+
+### Speaker 1 - @DruRly
+
+* founder of **trends.vc** -- and the idea of accidental community stands out to him. 
+
+
+
 ![](../.gitbook/assets/image%20%282%29.png)
 
 _**@DruRly** --_  
