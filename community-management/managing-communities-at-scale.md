@@ -11,21 +11,21 @@ description: >-
 
 ## Summary
 
-* Notion really focused on _**top of funnel**_ i.e. _**user acquisition**_. 
-* From there, _**Ambassador program**_ proved useful in building community. 
+* Notion really focused on the _**top of the funnel**_ i.e. _**user acquisition**_. 
+* From there, _****_the _**Ambassador program**_ proved useful in building community. 
 * _**Educating**_ the community. 
 * _**Identifying power users**_, and making the power users feel valued. 
 
 ## Scribbles
 
 * _**Investing early in communities**_ helps in the long run. 
-* Biggest pieces initially starting up the community were _**templates**_ and _**ambassador program**_. 
-* Other two things they focused on: Top of _**funnel sign ups**_, helping _**users**_ understand _**how to use notion better**_.
+* The biggest pieces initially starting up the community were _**templates**_ and the _**ambassador program**_. 
+* Two things they focused on: Top of _**funnel sign-ups**_, helping _**users**_ understand _**how to use notion better**_.
 * Lessons learned ****_**from empowering ambassadors --**_ work to make sure they're feeling as supported as possible, and helping them tap into what they manage most
 * _**Fostering better relationships with core users**_ - making people who already value your product feel valued.
 * _**Word of mouth**_ is still a very reliable and trustworthy tool that can be leveraged by building genuine community leads.
 * Notion _**employees favorite**_ Notion tool? -- keyboard shortcuts, callouts, toggles, 
-* _**Notion's unique artwork**_ has helped achieve a _**unique branding**_ of its own. It has also become a huge marketplace for templates, logos, characters and all sorts of artwork inspired by existing Notion's theme.  
+* _**Notion's unique artwork**_ has helped achieve a _**unique branding**_ of its own. It has also become a huge marketplace for templates, logos, characters, and all sorts of artwork inspired by existing Notion's theme.  
 
 ### Leveraging ambassador programs for marketing
 
