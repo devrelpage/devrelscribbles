@@ -42,7 +42,8 @@ The community can aid open-source projects not just with source code contributio
 * Have your readme at the bare minimum. Make it easier for the newbies! 
 * Holding yourself accountable for the communities and making sure you start initiatives to stay interested. 
 * Make sure your community shares the same goal as you. 
-* Not accepting contributions in oss == respectfully drawing a line about how much and what kind of engagement you want from the community, 
+* Not accepting contributions in open-source == respectfully drawing a line about how much and what kind of engagement you want from the community, 
+* Documentation \(blog posts, guides, etc\) and paying attention to the little details including down to social cards is super helpful especially in telling story and intention
 
   
   
