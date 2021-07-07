@@ -11,7 +11,7 @@ description: >-
 
 ## Summary: 
 
-* One of the main things to always remember is that each event -- online, _**hybrid or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_. 
+* One of the main things to always remember is that each event -- online, _**hybrid, or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_. 
 * 
 
 
@@ -22,6 +22,8 @@ description: >-
 ![Speakers](../.gitbook/assets/screenshot-2021-06-30-at-10.48.23-pm.png)
 
 ## Scribbles
+
+
 
 ### **Online Event**
 

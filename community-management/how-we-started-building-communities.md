@@ -12,12 +12,22 @@ description: >-
 
 #### _4 Speakers - How they started with their communities and why?_
 
-*  _****_
-*  _****_
-*   _****_
-* _**Understand your audience**_. Don't force your solutions on them, but let the data tell you what would work. 
+* Culture is a one-way door, which means it's hard to change the culture once made. This implies that you have to shape the culture from the get-go. Rituals build habits, help shape the culture. ****
+
+  
+  _****_
+
+* There has to be a vision behind the community so that the community remains focused. Also interesting is that the community he built was hierarchical, based on engagement.
+
+  
+  _****_
+
+* Mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind. _****_
+* _**Understand your audience**_. Don't force your solutions on them, but let the data tell you what would work.  
 * Your goal is _**not to use a specific tool**_, your _**goal is to build a community**_, to connect human beings with each other. Their needs come first.
-* 
+
+
+
 \_\_
 
 ## Scribbles
@@ -100,16 +110,14 @@ description: >-
 
 #### **Does info get lost in slack?**
 
-> ####  I'm not a big fan of slack — but in my thoughts communities can thrive on any platform. Slack can lose things — have an external worksheet or database for materials.
-
-#### 
+> I'm not a big fan of slack — but in my thoughts communities can thrive on any platform. Slack can lose things — have an external worksheet or database for materials.
 
 * Mentorship and finding mentorship can be driven by specifics — there are so many specialized founder communities, folks often come to Mentor Cruise with multiple goals in mind.
 * @dmonn mentioned "Connecting mentors and mentees is what we do and our success IMO. Every time a mentorship is formed, it‘s a win for us. Mentors do one part \(profile, mentoring, service description\) we do the other \(traffic, trust\)".
 
 
 
-_\*\*\*\*_
+#### The link to the talk will be shared soon. 😊👋🏼
 
 _\*\*\*\*_
 
