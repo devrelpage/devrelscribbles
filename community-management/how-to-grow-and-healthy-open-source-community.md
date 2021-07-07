@@ -1,5 +1,7 @@
 ---
-description: Twitter Spaces fireside chat as we discuss the "how" with Brian Douglas.
+description: >-
+  Twitter Spaces fireside chat as we discuss about growing healthy open-source
+  communities with Brian Douglas,
 ---
 
 # How to grow a healthy Open-Source community?
