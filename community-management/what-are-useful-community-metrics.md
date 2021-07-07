@@ -74,9 +74,9 @@ description: Metrics - Community - Success
 
 * not marketing
 * not sales
-* not an audience   
+* not an audience  
 
-
+#### The link to the talk will be shared soon. 😊👋🏼
 
 
 
