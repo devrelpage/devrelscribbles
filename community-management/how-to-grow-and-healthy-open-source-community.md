@@ -14,6 +14,9 @@ The community can aid open-source projects not just with source code contributio
 
 ## Summary:
 
+* structuring the project with _**promotion paths**_
+* _**hierarchy of advancement**_ in open source projects
+* 
 
 
 
@@ -26,7 +29,22 @@ The community can aid open-source projects not just with source code contributio
 
 ## Scribbles:
 
-###  **Characteristics of a good open-source community...**     
+###  **Characteristics of a good open-source community...**
+
+* structure
+* knowing _**who**_ to talk to
+* documentation
+* steps how to contribute
+* the architecture
+* structuring the project with promotion paths
+
+### Ladder Model for Open Source
+
+* hierarchy of advancement in open source projects
+* allows for buying and learning 
+* setting clear paths for learning and advancement
+
+###      
 
 
 
