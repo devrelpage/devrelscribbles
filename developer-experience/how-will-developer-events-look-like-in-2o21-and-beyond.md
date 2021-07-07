@@ -5,7 +5,9 @@ description: >-
   especially talking about pro's and con's.
 ---
 
-# How will developer events look like in 2o21 and beyond 🤔
+# How will developer events look like in 2o21 and beyond 🤔 \(In progress\)
+
+
 
 ![](../.gitbook/assets/screenshot-2021-06-30-at-10.10.14-pm.png)
 
