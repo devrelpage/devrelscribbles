@@ -5,5 +5,5 @@ description: >-
   them face.
 ---
 
-# Developers building in public -- the reality. \(in progress\)
+# Developers and building in public -- the reality. 🤐 \(in progress\)
 
