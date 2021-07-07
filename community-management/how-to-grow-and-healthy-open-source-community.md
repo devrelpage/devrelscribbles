@@ -16,16 +16,9 @@ The community can aid open-source projects not just with source code contributio
 
 * structuring the project with _**promotion paths**_
 * _**hierarchy of advancement**_ in open source projects
-* 
-
-
-
-
-
-
-
-
-
+* _**Holding yourself accountable**_ for the communities and making sure you start initiatives to stay interested. 
+* setting _**clear paths for learning**_ and advancement
+* _**Establishing your intentions, boundaries, and interests**_ — and communicating that \(or being open to hearing this is so important!  
 
 ## Scribbles:
 
@@ -44,7 +37,19 @@ The community can aid open-source projects not just with source code contributio
 * allows for buying and learning 
 * setting clear paths for learning and advancement
 
-###      
+#### _Share your work with the community, do not hide behind your code and work._
+
+* Have your readme at the bare minimum. Make it easier for the newbies! 
+* Holding yourself accountable for the communities and making sure you start initiatives to stay interested. 
+* Make sure your community shares the same goal as you. 
+* Not accepting contributions in oss == respectfully drawing a line about how much and what kind of engagement you want from the community, 
+
+  
+  
+  
+  
+  
+
 
 
 
