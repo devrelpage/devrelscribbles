@@ -43,14 +43,17 @@ The community can aid open-source projects not just with source code contributio
 * Holding yourself accountable for the communities and making sure you start initiatives to stay interested. 
 * Make sure your community shares the same goal as you. 
 * Not accepting contributions in open-source == respectfully drawing a line about how much and what kind of engagement you want from the community, 
-* Documentation \(blog posts, guides, etc\) and paying attention to the little details including down to social cards is super helpful especially in telling story and intention
+* Documentation \(blog posts, guides, etc\) and paying attention to the little details including down to social cards is super helpful especially in telling stories and intention.
 
-  
-  
-  
-  
-  
+###  Tackling imposter syndrome...?
 
+#### Here's how Brian approaches impostor syndrome and making open source accessible - 
+
+* I intentionally you're going to have a solution written in the issue, provide an easy win.
+* Providing mentorship and help
+* Giving credit where you can
+
+####   The link to the talk will be shared soon. 😊👋🏼 
 
 
 
