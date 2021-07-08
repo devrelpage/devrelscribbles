@@ -25,6 +25,24 @@ description: >-
 
 ## Scribbles
 
+### 🚩 Takeaways
+
+* It's really difficult to know who to approach irl, online events make this easier, especially for introverts.
+* People were left with less time during COVID, not more time.
+* In an online world - if someones online and present —they're likely willing to be approached.
+
+### What are some positive outcomes in taking events online, What would you retain?
+
+* Recording stuff for later reference.
+* People have been making more meaningful connections because everyone seems more 'equal'.
+* People are more receptive to being approached.
+* People took respite in online events due to the disruption in their lives due to COVID.
+* COVID forced us to pivot, put resources to best use.
+
+
+
+###  
+
 
 
 ### **Online Event**
