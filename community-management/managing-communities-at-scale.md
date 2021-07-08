@@ -21,7 +21,7 @@ description: >-
 * _**Investing early in communities**_ helps in the long run. 
 * The biggest pieces initially starting up the community were _**templates**_ and the _**ambassador program**_. 
 * Two things they focused on: Top of _**funnel sign-ups**_, helping _**users**_ understand _**how to use notion better**_.
-* Lessons learned ****_**from empowering ambassadors --**_ work to make sure they're feeling as supported as possible, and helping them tap into what they manage most
+* Lessons learned ****_**from empowering ambassadors --**_ work to make sure they're feeling as supported as possible and helping them tap into what they manage most
 * _**Fostering better relationships with core users**_ - making people who already value your product feel valued.
 * _**Word of mouth**_ is still a very reliable and trustworthy tool that can be leveraged by building genuine community leads.
 * Notion _**employees favorite**_ Notion tool? -- keyboard shortcuts, callouts, toggles, 
