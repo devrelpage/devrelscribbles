@@ -38,3 +38,7 @@ description: >-
 
 
 
+#### The link to the talk will be shared soon. 😊👋🏼
+
+
+
