@@ -5,7 +5,7 @@ description: >-
   especially talking about pro's and con's.
 ---
 
-# How will developer events look like in 2o21 and beyond 🤔 \(In progress\)
+# How will developer events look like in 2o21 and beyond 🤔
 
 
 
@@ -15,10 +15,9 @@ description: >-
 
 * One of the main things to always remember is that each event -- online, _**hybrid, or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_.
 * In an online world - if someones online and present —they're likely willing to be approached.
-
-
-
-
+* Reaching out to speakers is hard for in-person events.
+* Try to think _**more**_ about _**reach than attendance as a metric**_.
+* Having a global staff helps to reach global audiences.
 
 
 
@@ -28,15 +27,15 @@ description: >-
 
 ### 🚩 Takeaways
 
-* It's really difficult to know who to approach irl \(in real life\), online events make this easier, especially for introverts.
-* People were left with less time during COVID, not more time.
-* In an online world - if someones online and present —they're likely willing to be approached.
+* It's really _**difficult to know who to approach IRL**_ \(in real life\), online events make this easier, especially for introverts.
+* People _**were left with less time during COVID**_, _**not more time**_.
+* In an online world - _**if someones online and present**_ —they're likely _**willing to be approached**_.
 * People from niche interests can come together, overcoming geographical limitations.
 * Letting people who wanted to attend but couldn't due to cost issues.
 * Long-tail of talks being available on Youtube long after the event.
 * Online events are driving up the quality of the talks, giving speakers more confidence, helping them overcome stage fright, etc.
 * Online brings more diversity on how to deliver talks, it is more accessible, and being able to educate/teach/talk in so many different formats
-* noticed a trend of online communities \(Slacks, Discords\) staying more active after events, Kevin's communities has noticed the opposite, ie, less or no activity after events. 
+* Noticed a trend of online communities \(Slacks, Discords\) staying more active after events, Kevin's communities has noticed the opposite, ie, less or no activity after events. 
 
 > There is more organic engagement in the community in between events. People stay connected because they remain on the platform, instead of physically going to a different space and disconnecting from the community. -- @Jon from MLH
 
@@ -46,8 +45,8 @@ description: >-
 
 ### What are some positive outcomes in taking events online, What would you retain?
 
-* Recording stuff for later reference.
-* People have been making more meaningful connections because everyone seems more 'equal'.
+* _**Recording stuff**_ for later reference.
+* People have been _**making more meaningful connections**_ because everyone seems more 'equal'.
 * People are more receptive to being approached.
 * People took respite in online events due to the disruption in their lives due to COVID.
 * COVID forced us to pivot, put resources to best use. 
