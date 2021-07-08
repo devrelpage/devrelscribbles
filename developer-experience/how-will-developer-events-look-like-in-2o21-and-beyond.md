@@ -13,8 +13,9 @@ description: >-
 
 ## Summary: 
 
-* One of the main things to always remember is that each event -- online, _**hybrid, or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_. 
-* 
+* One of the main things to always remember is that each event -- online, _**hybrid, or physical**_, it's those _**little decisions**_ made by the core team that can eventually make the event successful and now it depends on how you set the _**metrics for success**_.
+* In an online world - if someones online and present —they're likely willing to be approached.
+
 
 
 
@@ -60,9 +61,9 @@ description: >-
 * Depends on the nature of the event. Easy for hackathons, harder for conferences.
 * Serendipity online vs in-person may not have a lot of overlap.
 * We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.
-* Challeneges of covering in-person events via video and taking them online fully.
+* Challenges of covering in-person events via video and taking them online fully.
 * Reaching out to speakers is hard for in-person events.
-* Issues finding accessible and inclusive venues - some people cant go to bars for example.
+* Issues finding accessible and inclusive venues - some people can't go to bars for example.
 * Inclusive timings are still a challenge. Everyone's being cautious about hybrid events!
 
 
@@ -82,34 +83,15 @@ description: >-
 
 > We need to rethink the success metric. In the past an event's success used to be measured by "how many people attended" there is a real opportunity here and now to go beyond that. You can have low attendance numbers and still be considered a success because you can now measure other things now, like engagement. - @Kevin
 
-###  
+### 
+
+#### The link to the talk will be shared soon. 😊👋🏼  
 
 
 
-### **Online Event**
-
-* Accessible.
-* Cheaper.
-* Logistic ease.
-* Low barriers to entry.
-* Less risky.
-* Lots of room for creativity without investing a lot.
-* More room for creativity without limitations of physical space.
-* More options to comfortably interact \(Text chat, audio, video\)
-* GREAT MEMES ONLINE!
-* Online events attract more people.
-* People overcome hesitation to attend.
-* More comfortable online - you can choose your own engagement level.
-* People who have mobility issues can attend \(excellent point\)
-* Speakers always turn up.
+### \*\*\*\*
 
 \*\*\*\*
-
-### **Hybrid Events** 
-
-* **Emilia:** - Events are social experiences, talks are important but not the main thing. -- Harder to bridge the gap between in-person and online. - For Emilia, online and in-person would serve different purposes.  
-* **Jon:** - Depends on the nature of the event. Easy for hackathons, harder for conferences. - Serendipity online vs in-person may not have a lot of overlap. - We need to know what part of an in-person event will get value from having an online component, taking the whole event online may not make perfect sense or be feasible.  
-* **Suze:** - Challenges of covering in-person events via video and taking them online fully. - Reaching out to speakers is hard for in-person events. - Issues finding accessible and inclusive venues - some people can't go to bars for example. - Inclusive timings are still a challenge ****everyone's being cautious about hybrid events!
 
 \*\*\*\*
 
