@@ -24,7 +24,7 @@
 * [Tooling your way to a great DevRel Team](miscellaneous/tooling-your-way-to-a-great-devrel-team.md)
 * [Distributed developer relations](miscellaneous/distributed-developer-relations.md)
 
-## Additional Readings: DevRel Carousels <a id="devrel-carousels"></a>
+## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
 * [Developer Advocates](https://medium.com/developerelations/developer-advocates-devrelcarousels-3-49e2bb7b03c3)
 * [Developer Evangelists](https://medium.com/developerelations/developer-evangelists-devrelcarousels-4-299f80cc1d36)

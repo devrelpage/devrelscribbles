@@ -37,8 +37,9 @@ description: >-
 
 > "I dont think there is developer market, there is a developer community, and we need a community team to reach that"
 
-* DevRel, Community, Marketing = all diff teams...or is DevRel & community manager = same team. 
-
+* DevRel, Community, Marketing = all diff teams...or is DevRel & community manager = same team.
+* _**Let the community do the marketing for you**_.
+* 
 ### 
 
 ### If adoption is a future success — how can you tap into the future of your org through Go To Community.
