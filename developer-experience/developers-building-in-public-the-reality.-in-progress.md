@@ -21,12 +21,17 @@ description: >-
 
 > "People don't care about the output, they care about the journey to the output"
 
-* harder for female makers to put themselves out there, and that's totally agreed.
+* It can be harder for female makers to put themselves out there, and that's totally agreed.
 * It can be a male-dominated environment.
 * In terms of success — Steph reiterates the importance of knowing your metrics.
 * Your product doesn't need to be perfect. Launch before you're ready.
 * Benefit -- Feedback loop and involving your community in shaping your product.
-* 
+* Public Attention is a wonderful thing — but also, it's important to be mindful of how it can influence the end product.
+* Sharing your roadmap publicly and share documentation.
+* Reporting on failures
+* Documenting your journey will have an impact on way more people than you think.
+* Building in public will help you get hired!
+
 
 
 
