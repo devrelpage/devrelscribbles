@@ -35,7 +35,7 @@ description: >-
 * Long-tail of talks being available on Youtube long after the event.
 * Online events are driving up the quality of the talks, giving speakers more confidence, helping them overcome stage fright, etc.
 * Online brings more diversity on how to deliver talks, it is more accessible, and being able to educate/teach/talk in so many different formats
-* Noticed a trend of online communities \(Slacks, Discords\) staying more active after events, Kevin's communities has noticed the opposite, ie, less or no activity after events. 
+* Noticed a trend of online communities \(Slacks, Discords\) staying more active after events, Kevin's communities have noticed the opposite, ie, less or no activity after events. 
 
 > There is more organic engagement in the community in between events. People stay connected because they remain on the platform, instead of physically going to a different space and disconnecting from the community. -- @Jon from MLH
 
