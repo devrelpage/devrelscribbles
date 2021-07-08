@@ -5,7 +5,7 @@
 
 ## Developer Experience
 
-* [Building a Developer Community in an Enterprise World](developer-experience/building-a-developer-community-in-an-enterprise-world.md)
+* [Building a Developer Community in an Enterprise World ⚒️](developer-experience/building-a-developer-community-in-an-enterprise-world.md)
 * [How to lose a dev in three ways 💔](developer-experience/how-to-lose-a-dev-in-three-ways.md)
 * [How will developer events look like in 2o21 and beyond 🤔](developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md)
 * [Developers and building in public -- the reality. 🤐 \(in progress\)](developer-experience/developers-building-in-public-the-reality.-in-progress.md)
