@@ -30,8 +30,8 @@ description: >-
 * Language itself can create a sense of hostility in some ways — and something that we should really take seriously.
 * Expanding the term 'developer' opens up more opportunities for all.
 * In order to get Go-To-Community integrated into the culture, you need to explain the metrics of community in terms of the known and functioning Go-To-Market strategy
-* Tracking sentiment among developers — how did developers feel about the product and how did this influence the company strategy as a whole? \(Community + DevRel =. how you listen to your people!\)
-* _**Market side vs Community side: Old way of thinking  Better: Culture C: Synthesis of Market and Community.**_
+* Tracking sentiment among developers — how did developers feel about the product and how did this influence the company strategy as a whole? \(Community + DevRel =. how you listen to your people!\) 
+* _**Market side vs Community side: Old way of thinking  Better: Culture C: Synthesis of Market and Community.**_ 
 * Sharing stories is one of the most important things we can do as community builders.
 * The community team is in ways an R+D function
 
