@@ -12,7 +12,7 @@
 
 ## Community Management
 
-* [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
+* [Outside the lecture theatre 💭](community-management/outside-the-lecture-theatre.md)
 * [Managing communities at scale 📈](community-management/managing-communities-at-scale.md)
 * [How did they start building communities?👀](community-management/how-we-started-building-communities.md)
 * [What are useful community metrics? + - \* %](community-management/what-are-useful-community-metrics.md)

@@ -5,7 +5,7 @@ description: >-
   asset for your organisation in the long term.
 ---
 
-# Outside the lecture theatre
+# Outside the lecture theatre 💭
 
 {% embed url="https://www.youtube.com/watch?v=7FJgTByRmls&ab\_channel=DevRel" caption="Joe Nash \(Braintree - PayPal\) - DevRelCon London 2015" %}
 
