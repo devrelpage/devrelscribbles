@@ -24,7 +24,8 @@ description: >-
 * harder for female makers to put themselves out there, and that's totally agreed.
 * It can be a male-dominated environment.
 * In terms of success — Steph reiterates the importance of knowing your metrics.
-
+* Your product doesn't need to be perfect. Launch before you're ready.
+* 
 
 
 
