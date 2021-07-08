@@ -39,8 +39,16 @@ description: >-
 
 * DevRel, Community, Marketing = all diff teams...or is DevRel & community manager = same team.
 * _**Let the community do the marketing for you**_.
-* 
-### 
+
+
+
+### Potential of having a great community
+
+* Product growth 
+* R&D 
+* Marketing!
+
+
 
 ### If adoption is a future success — how can you tap into the future of your org through Go To Community.
 

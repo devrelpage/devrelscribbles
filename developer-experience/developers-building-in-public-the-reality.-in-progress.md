@@ -5,7 +5,7 @@ description: >-
   them face.
 ---
 
-# Developers and building in public -- the reality. 🤐
+# Developers and building in public -- the reality. 🤐 \(in-progress\)
 
 ## Summary:
 
@@ -31,6 +31,8 @@ description: >-
 * Reporting on failures
 * Documenting your journey will have an impact on way more people than you think.
 * Building in public will help you get hired!
+* Building in Public is a huge portfolio builder.
+* There is a system/process behind building in public. It is not just throwing everything in public.
 
 
 
