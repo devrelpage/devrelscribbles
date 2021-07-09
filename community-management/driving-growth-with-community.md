@@ -4,7 +4,7 @@ description: >-
   Go-to-Community strategy, not just Go-to-Market.
 ---
 
-# Driving growth with community 📶
+# Driving growth with community 📶 \(WIP\)
 
 ## Summary:
 

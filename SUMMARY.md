@@ -8,7 +8,7 @@
 * [Building a Developer Community in an Enterprise World ⚒️](developer-experience/building-a-developer-community-in-an-enterprise-world.md)
 * [How to lose a dev in three ways 💔](developer-experience/how-to-lose-a-dev-in-three-ways.md)
 * [How will developer events look like in 2o21 and beyond 🤔](developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md)
-* [Developers and building in public -- the reality. 🤐 \(in-progress\)](developer-experience/developers-building-in-public-the-reality.-in-progress.md)
+* [Developers and building in public -- the reality. 🤐 \(WIP\)](developer-experience/developers-building-in-public-the-reality.-in-progress.md)
 
 ## Community Management
 
@@ -17,7 +17,7 @@
 * [How did they start building communities?👀](community-management/how-we-started-building-communities.md)
 * [What are useful community metrics? + - \* %](community-management/what-are-useful-community-metrics.md)
 * [How to grow a 💪🏻 healthy Open-Source community?](community-management/how-to-grow-and-healthy-open-source-community.md)
-* [Driving growth with community 📶](community-management/driving-growth-with-community.md)
+* [Driving growth with community 📶 \(WIP\)](community-management/driving-growth-with-community.md)
 
 ## Miscellaneous
 
