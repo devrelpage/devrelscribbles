@@ -6,6 +6,12 @@ description: >-
 
 # Index
 
+### Developer Relations
+
+{% page-ref page="developer-relations/path-to-success-for-devrel.md" %}
+
+
+
 ### Developer Experience
 
 {% page-ref page="developer-experience/building-a-developer-community-in-an-enterprise-world.md" %}
