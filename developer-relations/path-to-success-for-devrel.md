@@ -7,7 +7,7 @@ description: >-
 
 # Path to success for DevRel
 
-{% embed url="https://www.marythengvall.com/blog/2021/3/9/the-devrel-path-to-success-awareness-enablement-engagement" %}
+{% embed url="https://www.marythengvall.com/blog/2021/3/9/the-devrel-path-to-success-awareness-enablement-engagement" caption="Main Blog" %}
 
 ## Summary:
 
