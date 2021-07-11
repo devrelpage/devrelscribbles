@@ -6,8 +6,8 @@
 ## Developer Relations
 
 * [Path to success for DevRel](developer-relations/path-to-success-for-devrel.md)
-* [The hierarchy of developer needs](developer-relations/the-hierarchy-of-developer-needs.md)
-* [How to rock a technical keynote](developer-relations/how-to-rock-a-technical-keynote.md)
+* [The hierarchy of developer needs \(WIP\)](developer-relations/the-hierarchy-of-developer-needs.md)
+* [How to rock a technical keynote \(WIP\)](developer-relations/how-to-rock-a-technical-keynote.md)
 * [Planning your dev rel career](developer-relations/planning-your-dev-rel-career.md)
 
 ## Developer Experience

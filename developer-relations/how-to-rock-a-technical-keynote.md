@@ -4,7 +4,7 @@ description: >-
   smoothly?
 ---
 
-# How to rock a technical keynote
+# How to rock a technical keynote \(WIP\)
 
 Technical keynotes should be captivating, right? But too many are dull and pitchy. Avery Rosen shares practical tips for pulling off a keynote people will talk about.
 
