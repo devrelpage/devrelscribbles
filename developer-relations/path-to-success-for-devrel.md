@@ -33,7 +33,9 @@ description: >-
 
 ### Developer Advocacy
 
-
+* Responsible for making sure the community is _**aware**_
+* Producing content like blogposts, live streaming, public speaking/talks, etc.
+* Building relations ships in tech industry. 
 
 
 
