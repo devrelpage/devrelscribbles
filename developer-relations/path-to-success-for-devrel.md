@@ -36,7 +36,13 @@ description: >-
 * Responsible for making sure the community is _**aware**_
 * Producing content like blogposts, live streaming, public speaking/talks, etc.
 * Building relations ships in tech industry. 
+* Making sure the team is aware of relevant feedback from the community. 
 
+### Developer Experience 
+
+* Responsible for standardization, accessibility of documentation for developers. 
+* ^ allows to put the team a finish touch after a fantastic talk from the developer advocate at a tech conference. 
+* 
 
 
 
