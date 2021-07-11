@@ -14,20 +14,12 @@ description: >-
 
 ## Scribbles <a id="scribbles"></a>
 
-‌
-
 ### The focus of this talk <a id="the-focus-of-this-talk"></a>
-
-‌
 
 #### Try to figure out <a id="try-to-figure-out"></a>
 
-‌
-
 * Where & how do we focus our efforts and energy
 * How much money to build a strong program.
-
-‌
 
 #### A few questions that bother everyone <a id="a-few-questions-that-bother-everyone"></a>
 
