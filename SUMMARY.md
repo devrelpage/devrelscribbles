@@ -6,23 +6,23 @@
 ## Developer Relations
 
 * [Path to success for DevRel](developer-relations/path-to-success-for-devrel.md)
-* [Untitled](developer-relations/untitled.md)
+* [DevRel Qualified Leads](developer-relations/untitled.md)
 
 ## Developer Experience
 
 * [Building a Developer Community in an Enterprise World ⚒️](developer-experience/building-a-developer-community-in-an-enterprise-world.md)
 * [How to lose a dev in three ways 💔](developer-experience/how-to-lose-a-dev-in-three-ways.md)
-* [How will developer events look like in 2o21 and beyond 🤔](developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md)
-* [Developers and building in public -- the reality. 🤐 \(WIP\)](developer-experience/developers-building-in-public-the-reality.-in-progress.md)
+* [Dev events beyond 2021](developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md)
+* [Reality of building in public](developer-experience/developers-building-in-public-the-reality.-in-progress.md)
 
 ## Community Management
 
 * [Outside the lecture theatre 💭](community-management/outside-the-lecture-theatre.md)
 * [Managing communities at scale 📈](community-management/managing-communities-at-scale.md)
-* [How did they start building communities?👀](community-management/how-we-started-building-communities.md)
-* [What are useful community metrics? + - \* %](community-management/what-are-useful-community-metrics.md)
-* [How to grow a 💪🏻 healthy Open-Source community?](community-management/how-to-grow-and-healthy-open-source-community.md)
-* [Driving growth with community 📶 \(WIP\)](community-management/driving-growth-with-community.md)
+* [Start building communities](community-management/how-we-started-building-communities.md)
+* [Useful community metrics](community-management/what-are-useful-community-metrics.md)
+* [Growing Open-Source community?](community-management/how-to-grow-and-healthy-open-source-community.md)
+* [Business growth with community](community-management/driving-growth-with-community.md)
 
 ## Miscellaneous
 

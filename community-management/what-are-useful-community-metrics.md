@@ -2,7 +2,7 @@
 description: Metrics - Community - Success
 ---
 
-# What are useful community metrics? + - \* %
+# Useful community metrics
 
 ![](../.gitbook/assets/screenshot-2021-07-01-at-12.16.47-am.png)
 

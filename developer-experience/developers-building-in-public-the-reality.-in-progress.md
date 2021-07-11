@@ -5,7 +5,7 @@ description: >-
   them face.
 ---
 
-# Developers and building in public -- the reality. 🤐 \(WIP\)
+# Reality of building in public
 
 ## Summary:
 

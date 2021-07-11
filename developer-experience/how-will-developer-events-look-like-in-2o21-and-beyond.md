@@ -5,7 +5,7 @@ description: >-
   especially talking about pro's and con's.
 ---
 
-# How will developer events look like in 2o21 and beyond 🤔
+# Dev events beyond 2021
 
 
 

@@ -4,7 +4,7 @@ description: >-
   what worked for them.
 ---
 
-# How did they start building communities?👀
+# Start building communities
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
