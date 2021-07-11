@@ -11,7 +11,10 @@ description: >-
 
 ## Summary:
 
-* 
+* Foundational Categories- _**Awareness**_, _**Enablement**_ and _**Engagement**_
+* Functions of DevRel - _**Developer**_ _**Advocay**_, _**Experience**_ and _**Community**_ _**Management**_
+* _\*\*\*\*_
+
 ## Scribbles:
 
 ### Foundational Categories- 
