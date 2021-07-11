@@ -50,8 +50,32 @@ description: >-
 * ^ those who run meetups, speak at events on the company's behalf.
 * Goal is to build stronger community of people as well as connections.
 
+### Internal Community
 
+#### Internally -&gt; Co-workers
 
+* Awareness OF
+  * team's existence
+  * feedback that the community is willing to provide
+  * types of processes that can be provided
+  * DevRel qualified leads
+* Enabling to 
+  * serve the community better 
+  * bettter communitcate with customers
+  * write, speak and code in public. 
+* Engagin co-workers with the community with conferences, social media, forums, etc.
+
+#### Externally -&gt;
+
+* Awareness OF
+  * Existence of various products and projects
+  * Team and mission
+  * Resources
+* Enabling THEM
+  * get up and running quickly and easily
+  * successful in their role
+  * try new things along with amplification of work
+* 
 
 
 
