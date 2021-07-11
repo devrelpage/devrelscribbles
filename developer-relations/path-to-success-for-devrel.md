@@ -42,7 +42,16 @@ description: >-
 
 * Responsible for standardization, accessibility of documentation for developers. 
 * ^ allows to put the team a finish touch after a fantastic talk from the developer advocate at a tech conference. 
-* 
+* Gives people the confidence to know that the product can solve their problems with the help of fantastic guides and resources available. 
+
+### Community Management
+
+* Working with most engaged community memebers.
+* ^ those who run meetups, speak at events on the company's behalf.
+* Goal is to build stronger community of people as well as connections.
+
+
+
 
 
 
