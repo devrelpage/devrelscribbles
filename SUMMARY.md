@@ -5,7 +5,7 @@
 
 ## Developer Relations
 
-* [Path to success for DevRel \(WIP\)](developer-relations/path-to-success-for-devrel.md)
+* [Path to success for DevRel](developer-relations/path-to-success-for-devrel.md)
 * [Untitled](developer-relations/untitled.md)
 
 ## Developer Experience

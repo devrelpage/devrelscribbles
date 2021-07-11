@@ -5,7 +5,7 @@ description: >-
   elements of a developer relations team.
 ---
 
-# Path to success for DevRel \(WIP\)
+# Path to success for DevRel
 
 {% embed url="https://www.marythengvall.com/blog/2021/3/9/the-devrel-path-to-success-awareness-enablement-engagement" %}
 
@@ -68,14 +68,26 @@ description: >-
 #### Externally -&gt;
 
 * Awareness OF
-  * Existence of various products and projects
-  * Team and mission
-  * Resources
+  * existence of various products and projects
+  * team and mission
+  * resources
 * Enabling THEM
   * get up and running quickly and easily
   * successful in their role
   * try new things along with amplification of work
-* 
+* Engaging
+  * using forums, slack, social media, conferences, meetups
+  * contributing and collaborating to move members up the pyramid of engagement
+
+### How to find balance b/w the 3
+
+* Understand company goals
+* Find allies in your company
+  * Awareness in marketing dept.
+  * Enablement in product and engineering.
+  * Engagement in support and customer sucess team. 
+* Prioritizing your task and working across teams to accomplish goals. 
+
 
 
 
