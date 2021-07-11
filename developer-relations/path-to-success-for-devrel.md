@@ -13,7 +13,33 @@ description: >-
 
 ## Scribbles:
 
-#### Foundational Categories-
+### Foundational Categories- 
+
+* _**Awareness**_ 
+  * Making sure that developers know about the product, making them aware of the targetted product's existence.
+* _**Enablement**_ 
+  * Documentations, guides, tutorials, existing libraries, use-cases, etc. to enable the developers to use your product. 
+  * Making developers understand that using your product solves their problems can be a huge plus point for them to adopt the product.
+* _**Engagement**_ 
+  * Engaging with the community.   
+
+### 3 Functions of Developer Relations- 
+
+* Developer Advocacy
+* Developer Experience
+* Community management 
+
+![Click to zoom,.](../.gitbook/assets/screenshot-2021-07-11-at-9.44.40-am.png)
+
+### Developer Advocacy
+
+
+
+
+
+
+
+
 
 
 
