@@ -4,7 +4,7 @@ description: >-
   documentation better and more accessible to new developers.
 ---
 
-# How to lose a dev in three ways 💔
+# How to lose a dev in three ways
 
 {% embed url="https://www.youtube.com/watch?v=1gukQNERjLQ&ab\_channel=DevRel" caption="Jamie Wittenberg \(MLH\) - DevRelCon San Francisco 2019" %}
 

@@ -5,7 +5,7 @@ description: >-
   needs and expectations of the developers.
 ---
 
-# Building a Developer Community in an Enterprise World ⚒️
+# Building a Developer Community in an Enterprise World
 
 {% embed url="https://www.youtube.com/watch?v=iOmZe3a4i3c&ab\_channel=DevRel" caption="Laura Cowen \(IBM\) - DevRelCon London 2015" %}
 
