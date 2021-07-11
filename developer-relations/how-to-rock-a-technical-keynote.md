@@ -10,6 +10,16 @@ Technical keynotes should be captivating, right? But too many are dull and pitch
 
 {% embed url="https://youtu.be/3xUrL-Z7F40" %}
 
+### 
+
+## Summary
+
+## Scribbles
+
+### 
+
+### 
+
 ### Transcript
 
 **Avery:** I have to explain what engineering communications is. It’s DevRel adjacent, I think of it as applied thought leadership, in presentations, in media and in application design. I’m the Head of Engineering Communications at MongoDB and I am here to tell you how to rock a technical keynote. I promise that’s the last time I’m going to do that this time. A technical keynote, when I say that, what I’m talking about is specifically the kind of keynote that comes coupled with a big, sort of annual developer conference where a bunch of announcements happens and we roll in a bunch of like software demos as well. And, a really rocking technical keynote is going to, it’s going to set the tone and the purpose of the whole event. It’s going to take all of the facts that the event exposures, the product roll outs and the features and the competitive analysis and all of the vision stuff and tell everyone exactly what it means.
