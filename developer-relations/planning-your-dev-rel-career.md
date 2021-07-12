@@ -4,7 +4,7 @@ description: >-
   plan for your own dev rel career?
 ---
 
-# Planning your dev rel career
+# Planning your dev rel career \(WIP\)
 
 Jessica Rose has built a reputation for championing and mentoring people through their developer relations careers. In this talk from DevRelCon London 2019 she shares practical advice on how to plan and manage your own dev rel career.
 

@@ -5,7 +5,7 @@ description: >-
   them face.
 ---
 
-# Reality of building in public
+# Reality of building in public \(WIP\)
 
 ## Summary:
 
