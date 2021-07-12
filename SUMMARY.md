@@ -25,6 +25,7 @@
 * [Useful community metrics](community-management/what-are-useful-community-metrics.md)
 * [Growing Open-Source community?](community-management/how-to-grow-and-healthy-open-source-community.md)
 * [Business growth with community \(WIP\)](community-management/driving-growth-with-community.md)
+* [Building community flywheels](community-management/building-community-flywheels.md)
 
 ## Miscellaneous
 
