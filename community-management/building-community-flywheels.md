@@ -1,2 +1,0 @@
-# Building community flywheels \(IP\)
-

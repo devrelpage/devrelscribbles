@@ -8,8 +8,6 @@ description: >-
 
 ### Developer Relations
 
-{% page-ref page="developer-relations/path-to-success-for-devrel.md" %}
-
 
 
 ### Developer Experience
@@ -25,8 +23,6 @@ description: >-
 > Jamie Wittenberg talks about great ways you can incorporate to make your documentation better and more accessible to new developers.
 
 
-
-{% page-ref page="developer-experience/how-will-developer-events-look-like-in-2o21-and-beyond.md" %}
 
 
 
