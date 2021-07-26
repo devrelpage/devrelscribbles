@@ -12,10 +12,10 @@
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
 
-## Miscellaneous
+## Managing Developer Relations
 
-* [Tooling your way to a great DevRel Team](miscellaneous/tooling-your-way-to-a-great-devrel-team.md)
-* [Distributed developer relations](miscellaneous/distributed-developer-relations.md)
+* [Tooling your way to a great DevRel Team](managing-developer-relations/tooling-your-way-to-a-great-devrel-team.md)
+* [Distributed developer relations](managing-developer-relations/distributed-developer-relations.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
