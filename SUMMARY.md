@@ -18,6 +18,7 @@
 * [Tooling your way to a great DevRel Team](managing-developer-relations/tooling-your-way-to-a-great-devrel-team.md)
 * [Distributed developer relations](managing-developer-relations/distributed-developer-relations.md)
 * [Understanding company goals](managing-developer-relations/understanding-company-goals.md)
+* [DevRel Qualified Leads \(DQL\)](managing-developer-relations/devrel-qualified-leads-dql.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
