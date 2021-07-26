@@ -7,8 +7,6 @@ description: >-
 
 # Understanding company goals
 
-
-
 {% embed url="https://www.marythengvall.com/blog/2020/12/14/first-understand-the-company-goals" caption="Blog" %}
 
 ## Summary
