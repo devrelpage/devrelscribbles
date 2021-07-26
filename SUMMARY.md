@@ -22,6 +22,7 @@
 * [DevRel Qualified Leads \(DQL\)](managing-developer-relations/devrel-qualified-leads-dql.md)
 * [Path to success for DevRel](managing-developer-relations/path-to-success-for-devrel.md)
 * [How to move up in your organization](managing-developer-relations/untitled.md)
+* [Life as a developer advocate](managing-developer-relations/life-as-a-developer-advocate.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
