@@ -90,7 +90,11 @@ description: >-
 
 > To devise a DevRel strategy, one must understand their company's needs and the tactics that can be used to meet them. Let's take a look at the four pillars to understand all of this in a better way.
 
-### 
+{% page-ref page="managing-developer-relations/building-your-devrel-dream-team.md" %}
+
+> Let's take a look into knowing the key elements required to make a "DevRel dream team".
+
+
 
 
 
