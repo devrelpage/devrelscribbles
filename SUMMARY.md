@@ -10,6 +10,10 @@
 * [Developer relations, why is it needed?](developer-experience/developer-relations-why-is-it-needed.md)
 * [The hierarchy of developer needs](developer-experience/the-hierarchy-of-developer-needs.md)
 
+## Developer Evangelism
+
+* [How to rock a technical keynote](developer-evangelism/how-to-rock-a-technical-keynote.md)
+
 ## Community Management
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)

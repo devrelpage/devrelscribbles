@@ -28,7 +28,7 @@ description: >-
 * How does one define the various roles/task under developer relations/experience and community management? -- Bands on a spectrum, the high school, em spectrum something like that. 
 * Bands on the spectrum help us to understand their characteristics. 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 * When it comes to all three categories -- DX, DevRel and CM, the lines are blurred. There are roles and actions that can be performed by either or both. But it still makes sense of us to think of them as distinct practises.
 * The diagram clearly helps in breaking any hierarchy, if at all. It helps in giving a clear-er approach from an implementation choice for an organization. 
@@ -47,7 +47,7 @@ description: >-
   * Community 
     * Open source, PR, various forms of marketing and customer service. 
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 
 

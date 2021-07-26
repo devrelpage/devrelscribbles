@@ -35,7 +35,7 @@ _Hey there, my name is Zeus and I work in developer relations._”
 * Now, like mentioned above ⬆️ can be a variety of tasks that can vary according to which category DevRel is focused on in an organization.  
 * But below ⬇️  are a few tasks that are almost done by every DevRel.  
 
-![Blog](../.gitbook/assets/image%20%2810%29.png)
+![Blog](../.gitbook/assets/image%20%2812%29.png)
 
 > As you can see, developer relations is highly cross-functional, dynamic, and includes a wide breadth of skills and responsibilities. According to [Bear Douglas](https://slack.engineering/defining-a-career-path-for-developer-relations/), Director of Developer Relations at Slack, developer relations is “_an interdisciplinary role that sits in a border space between product, engineering, and marketing_”.
 
@@ -88,7 +88,7 @@ _Hey there, my name is Zeus and I work in developer relations._”
 * So, even if your organization doesn't have a DevRel, there must be someone writing technical documentation, code samples, connecting with developers to solve an issue. 
 * While developing a product, one of the first steps as a developer is to create documentation, samples, uses cases to get started.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 * If you want to learn more about community flywheels you can check the scribble below
 
