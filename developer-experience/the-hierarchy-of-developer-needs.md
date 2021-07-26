@@ -8,9 +8,7 @@ description: >-
 
 
 
-{% embed url="https://www.youtube.com/watch?v=7oRXH\_MBn2A" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=7oRXH\_MBn2A" caption="Video" %}
 
 ## Summary <a id="summary"></a>
 
