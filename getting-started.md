@@ -70,5 +70,11 @@ description: >-
 
 > Whenever it has come asking as to "what is the main role of DevRel team"? The answer-- "It totally depends", which definitely raises more doubt in the mind of the person asking it.
 
+{% page-ref page="managing-developer-relations/devrel-qualified-leads-dql.md" %}
+
+> What's the ROI -- the metrics to measure them -- explaining it to an employee. With DevRel Qualified Leads you first set your own metrics that truly reflect the value of the work that you do.
+
+
+
 
 
