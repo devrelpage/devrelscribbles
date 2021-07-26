@@ -6,8 +6,6 @@ description: >-
 
 # How to rock a technical keynote
 
-
-
 Technical keynotes should be captivating, right? But too many are dull and pitchy. Avery Rosen shares practical tips for pulling off a keynote people will talk about.
 
 {% embed url="https://youtu.be/3xUrL-Z7F40" %}
