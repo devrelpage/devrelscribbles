@@ -6,7 +6,7 @@ description: >-
 
 # Index
 
-### Developer Relations
+{% page-ref page="./" %}
 
 
 
@@ -16,15 +16,23 @@ description: >-
 
 > Listen to Laura Cowen as she goes around talking about how she developed a community and DevRel culture in IBM making the organisation understand the needs and expectations of the developers.
 
-
-
 {% page-ref page="developer-experience/how-to-lose-a-dev-in-three-ways.md" %}
 
 > Jamie Wittenberg talks about great ways you can incorporate to make your documentation better and more accessible to new developers.
 
+{% page-ref page="developer-experience/developer-relations-why-is-it-needed.md" %}
 
+> Explaining your role and function comes with the territory of working in this space, but why is that? It’s tricky to define, describe what developer relations is, and why it even exists?
 
+{% page-ref page="developer-experience/the-hierarchy-of-developer-needs.md" %}
 
+> Mike Stowe takes a look at the Hierarchy of Developer Needs, and how you can use it to balance your efforts and ensure your users are successful.
+
+### Developer Evangelism
+
+{% page-ref page="developer-evangelism/how-to-rock-a-technical-keynote.md" %}
+
+> How do you give a technical keynote that is exciting, informative, and runs smoothly?
 
 
 

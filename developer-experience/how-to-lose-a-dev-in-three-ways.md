@@ -6,8 +6,6 @@ description: >-
 
 # How to lose a dev in three ways
 
-{% embed url="https://www.youtube.com/watch?v=1gukQNERjLQ&ab\_channel=DevRel" caption="Jamie Wittenberg \(MLH\) - DevRelCon San Francisco 2019" %}
-
 ## Summary
 
 ### **Create Inclusive documentation**
