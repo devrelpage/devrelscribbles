@@ -21,7 +21,7 @@
 * [Understanding company goals](managing-developer-relations/understanding-company-goals.md)
 * [DevRel Qualified Leads \(DQL\)](managing-developer-relations/devrel-qualified-leads-dql.md)
 * [Path to success for DevRel](managing-developer-relations/path-to-success-for-devrel.md)
-* [Untitled](managing-developer-relations/untitled.md)
+* [How to move up in your organization](managing-developer-relations/untitled.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
