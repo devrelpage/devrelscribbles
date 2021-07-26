@@ -74,6 +74,28 @@ description: >-
 
 > What's the ROI -- the metrics to measure them -- explaining it to an employee. With DevRel Qualified Leads you first set your own metrics that truly reflect the value of the work that you do.
 
+{% page-ref page="managing-developer-relations/path-to-success-for-devrel.md" %}
+
+> Scribble from Mary Thengvall's amazing blog "The DevRel Path To Success: Awareness, Enablement, Engagement", which talks about what are the key elements of a developer relations team.
+
+{% page-ref page="managing-developer-relations/untitled.md" %}
+
+> How does one move up in their organization as a DevRel? What does that "up" even look like if it even exists! Let's take notes from Chris Noring who is a Developer Advocate at Microsoft.
+
+{% page-ref page="managing-developer-relations/life-as-a-developer-advocate.md" %}
+
+> Take a look at the life of a developer advocate working at facebook's open-source team, taking a dive into a few tips, tips to be a great advocate and what does it take to be an advocate.
+
+{% page-ref page="managing-developer-relations/four-pillars-of-devrel.md" %}
+
+> To devise a DevRel strategy, one must understand their company's needs and the tactics that can be used to meet them. Let's take a look at the four pillars to understand all of this in a better way.
+
+### 
+
+
+
+
+
 
 
 
