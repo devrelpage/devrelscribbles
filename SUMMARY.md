@@ -11,6 +11,7 @@
 ## Community Management
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
+* [Building community flywheels](community-management/building-community-flywheels.md)
 
 ## Managing Developer Relations
 
