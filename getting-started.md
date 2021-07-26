@@ -42,6 +42,16 @@ description: >-
 
 > Joe Nash, who has done an excellent job at building student communities, talks about how and why you should targeting students, making them an invaluable asset for your organisation in the long term.
 
+{% page-ref page="community-management/building-community-flywheels.md" %}
+
+> Let's take a dive into learning what flywheels are and how to make them, eventually using them to build better communities.
+
+{% page-ref page="community-management/devrel-community-management.md" %}
+
+> Developer relations and community management often look like two sides of the same coin, but taking a step back it becomes clear that they are distinct yet related.
+
+
+
 ### Managing Developer Relations
 
 {% page-ref page="managing-developer-relations/tooling-your-way-to-a-great-devrel-team.md" %}
@@ -51,4 +61,14 @@ description: >-
 {% page-ref page="managing-developer-relations/distributed-developer-relations.md" %}
 
 > Brandon West from Amazon AWS talks about how to manage a distributed developer relations team, especially where each person on the team tends to travel a lot.
+
+{% page-ref page="managing-developer-relations/is-developer-relations-right-for-you.md" %}
+
+> How do you know whether moving into developer relations or DevRel is right for you?
+
+{% page-ref page="managing-developer-relations/understanding-company-goals.md" %}
+
+> Whenever it has come asking as to "what is the main role of DevRel team"? The answer-- "It totally depends", which definitely raises more doubt in the mind of the person asking it.
+
+
 

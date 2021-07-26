@@ -18,12 +18,13 @@
 
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
 * [Building community flywheels](community-management/building-community-flywheels.md)
+* [DevRel = Community Management?](community-management/devrel-community-management.md)
 
 ## Managing Developer Relations
 
-* [Is developer relations right for you?](managing-developer-relations/is-developer-relations-right-for-you.md)
 * [Tooling your way to a great DevRel Team](managing-developer-relations/tooling-your-way-to-a-great-devrel-team.md)
 * [Distributed developer relations](managing-developer-relations/distributed-developer-relations.md)
+* [Is developer relations right for you?](managing-developer-relations/is-developer-relations-right-for-you.md)
 * [Understanding company goals](managing-developer-relations/understanding-company-goals.md)
 * [DevRel Qualified Leads \(DQL\)](managing-developer-relations/devrel-qualified-leads-dql.md)
 * [Path to success for DevRel](managing-developer-relations/path-to-success-for-devrel.md)
@@ -31,7 +32,6 @@
 * [Life as a developer advocate](managing-developer-relations/life-as-a-developer-advocate.md)
 * [Four pillars of DevRel](managing-developer-relations/four-pillars-of-devrel.md)
 * [Building your DevRel dream team](managing-developer-relations/building-your-devrel-dream-team.md)
-* [DevRel = Community Management?](managing-developer-relations/devrel-community-management.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
