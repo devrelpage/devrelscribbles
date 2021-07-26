@@ -7,8 +7,6 @@ description: >-
 
 # DevRel Qualified Leads \(DQL\)
 
-
-
 {% embed url="https://www.marythengvall.com/blog/2019/12/14/devrel-qualified-leads-repurposing-a-common-business-metrics-to-prove-value" caption="Blog" %}
 
 ## Summary:
