@@ -7,6 +7,7 @@
 
 * [Building a Developer Community in an Enterprise World](developer-experience/building-a-developer-community-in-an-enterprise-world.md)
 * [How to lose a dev in three ways](developer-experience/how-to-lose-a-dev-in-three-ways.md)
+* [Developer relations, why is it needed?](developer-experience/developer-relations-why-is-it-needed.md)
 
 ## Community Management
 
@@ -20,6 +21,7 @@
 * [Understanding company goals](managing-developer-relations/understanding-company-goals.md)
 * [DevRel Qualified Leads \(DQL\)](managing-developer-relations/devrel-qualified-leads-dql.md)
 * [Path to success for DevRel](managing-developer-relations/path-to-success-for-devrel.md)
+* [Untitled](managing-developer-relations/untitled.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
