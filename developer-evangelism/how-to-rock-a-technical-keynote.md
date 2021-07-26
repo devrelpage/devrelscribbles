@@ -104,7 +104,7 @@ Following a 5-step agile process
 * The presenter can track and evolve even before the graphics are done.
 * Defer work on slides that might change
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![This &#x2B06;&#xFE0F; .... turns into &#x2B07;&#xFE0F;](../.gitbook/assets/image%20%2810%29.png)
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
