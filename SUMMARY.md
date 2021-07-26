@@ -24,6 +24,7 @@
 * [How to move up in your organization](managing-developer-relations/untitled.md)
 * [Life as a developer advocate](managing-developer-relations/life-as-a-developer-advocate.md)
 * [Four pillars of DevRel](managing-developer-relations/four-pillars-of-devrel.md)
+* [Building your DevRel dream team](managing-developer-relations/building-your-devrel-dream-team.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
