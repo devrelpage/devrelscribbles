@@ -10,8 +10,6 @@ Technical keynotes should be captivating, right? But too many are dull and pitch
 
 {% embed url="https://youtu.be/3xUrL-Z7F40" %}
 
-### 
-
 ## Summary
 
 #### A rocking technical keynote? 
