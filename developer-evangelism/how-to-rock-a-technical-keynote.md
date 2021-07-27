@@ -108,8 +108,6 @@ Following a 5-step agile process
 
 * These are links to previous talks or sessions that you mentioned in the current keynote. Induces interaction and makes sure everything is interconnected. 
 
-
-
 ### Slide-craft
 
 * The process of making sure that things go from those wireframes to really nice looking stuff.
@@ -119,7 +117,7 @@ Following a 5-step agile process
 
 ### Rehearsal
 
-* Main difference between amateurs and professionals.
+* The main difference between amateurs and professionals.
 * What more to say...? You are going on stage after so much hard work...what's stopping you from a little rehearsal. 
 * 🤘🏼rock bands rehearse whenever they get time. 
 
@@ -128,7 +126,7 @@ Following a 5-step agile process
 * Place where you need to start finalising and dropping the things that aren't adding up.
 * Making sure engineers aren't using their real id's as it will be a live demo.
 * Making sure the person in charge has all access to the keys
-* Spare laptops, using bookmark where everyone behind the scene is sync.
+* Spare laptops, using bookmark where everyone behind the scene in sync.
 
 > But I will tell you how I wrap it up, which is that if you do all this right, then you’ve got yourself an amazing keynote and you can talk to the people in your audience later and find that they’re ready to tell your story for you.
 
