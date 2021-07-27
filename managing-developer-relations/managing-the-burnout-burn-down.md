@@ -8,7 +8,7 @@ description: A research-based framework for recognising and managing overwork.
 
 Burnout is a recurring point of discussion amongst dev rel practitioners. What can we do to recognise and avoid burnout before it’s too late? Anjuan Simmons shares practical advice in this talk from DevRelCon London 2019.
 
-{% embed url="https://youtu.be/Lji6ApUdE3I" %}
+{% embed url="https://youtu.be/Lji6ApUdE3I" caption="Video" %}
 
 ## Summary:
 
