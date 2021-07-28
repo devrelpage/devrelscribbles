@@ -35,6 +35,7 @@
 * [Building your DevRel dream team](managing-developer-relations/building-your-devrel-dream-team.md)
 * [Managing the burnout burn-down](managing-developer-relations/managing-the-burnout-burn-down.md)
 * [Planning your DevRel career](managing-developer-relations/planning-your-devrel-career.md)
+* [Dev events beyond 2021](managing-developer-relations/dev-events-beyond-2021.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
