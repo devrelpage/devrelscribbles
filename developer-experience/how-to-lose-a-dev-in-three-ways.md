@@ -6,6 +6,8 @@ description: >-
 
 # How to lose a dev in three ways
 
+{% embed url="https://youtu.be/1gukQNERjLQ" caption="Video" %}
+
 ## Summary
 
 ### **Create Inclusive documentation**
