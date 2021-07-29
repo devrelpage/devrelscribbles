@@ -52,7 +52,10 @@ description: >-
 ### Docs as Engineering 
 
 * Necessarily not covering architecture -- but software engineering.
-* Software engineering, we’ve got a lot of principles that we’re all familiar with.  
+* Software engineering, we’ve got a lot of principles that we’re all familiar with. 
+
+#### Software engineering principles
+
 * Modularity: Writing modular code, and that we should 
 * KISS: Keep things simple, and that we 
 * DRY: Shouldn’t repeat ourselves, and that we should 
