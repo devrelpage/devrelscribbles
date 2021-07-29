@@ -124,3 +124,5 @@ Let’s look at the pipeline Cristiano’s team created to automate literally ev
 * Netlify will pick up any of these sources and build them out as documentation. But every time these sources change, Travis will also put it up and currently it’s pushing a postman collection.
 * And it’s not just pushing it out in English, it’s also pushing it out in Japanese!!
 
+
+
