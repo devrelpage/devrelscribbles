@@ -52,7 +52,7 @@ description: >-
 ### Docs as Engineering 
 
 * Necessarily not covering architecture -- but software engineering.
-* Software engineering, we’ve got a lot of principles that we’re all familiar with. 
+* Software engineering, we’ve got a lot of principles that we’re all familiar with.
 
 We have the idea that we should be 
 
@@ -77,9 +77,7 @@ We have the idea that we should be
 
 ### Modularising
 
-It’s the idea that you should break things into their components to make sure that they do one thing well, that they allow for easy inclusion.  
-  
-
+It’s the idea that you should break things into their components to make sure that they do one thing well, that they allow for easy inclusion.
 
 * Do one thing well
 * Allow for easy inclusion 
