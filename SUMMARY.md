@@ -10,6 +10,7 @@
 * [Developer relations, why is it needed?](developer-experience/developer-relations-why-is-it-needed.md)
 * [The hierarchy of developer needs](developer-experience/the-hierarchy-of-developer-needs.md)
 * [GitHub is your documentation landing page](developer-experience/github-is-your-documentation-landing-page.md)
+* [Docs as engineering: an intro to developer experience engineering](developer-experience/docs-as-engineering-an-intro-to-developer-experience-engineering.md)
 
 ## Developer Evangelism
 
