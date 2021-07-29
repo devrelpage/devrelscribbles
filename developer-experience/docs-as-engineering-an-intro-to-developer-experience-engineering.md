@@ -4,7 +4,7 @@ description: >-
   engineering approach to their API documentation.
 ---
 
-# Docs as engineering: an intro to developer experience engineering
+# Docs as engineering
 
 {% embed url="https://youtu.be/UT3qOCmgLV8" caption="Video" %}
 
@@ -52,10 +52,7 @@ description: >-
 ### Docs as Engineering 
 
 * Necessarily not covering architecture -- but software engineering.
-* Software engineering, we’ve got a lot of principles that we’re all familiar with.
-
-We have the idea that we should be 
-
+* Software engineering, we’ve got a lot of principles that we’re all familiar with.  
 * Modularity: Writing modular code, and that we should 
 * KISS: Keep things simple, and that we 
 * DRY: Shouldn’t repeat ourselves, and that we should 
