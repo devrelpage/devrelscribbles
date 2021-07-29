@@ -24,8 +24,6 @@ description: >-
 * **Reuse** --  All of that will allow us to maximize value. 
 * Using a **pipeline** to tie it all together.
 
-
-
 ## **Scribbles:**
 
 * README allows you to make a backup, you export it.
