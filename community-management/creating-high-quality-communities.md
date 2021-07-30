@@ -4,7 +4,7 @@ description: >-
   around meet-ups and events.
 ---
 
-# Creating High-Quality Communities
+# Creating high-quality communities
 
 {% embed url="https://youtu.be/8yWmpKUsuwg" caption="Video" %}
 
