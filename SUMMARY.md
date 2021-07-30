@@ -21,6 +21,7 @@
 * [Outside the lecture theatre](community-management/outside-the-lecture-theatre.md)
 * [Building community flywheels](community-management/building-community-flywheels.md)
 * [DevRel = Community Management?](community-management/devrel-community-management.md)
+* [Creating High-Quality Communities](community-management/creating-high-quality-communities.md)
 
 ## Managing Developer Relations
 
