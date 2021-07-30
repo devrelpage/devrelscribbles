@@ -4,7 +4,7 @@ description: >-
   the impact of your presentation.
 ---
 
-# The Art of Slide Design
+# The art of slide design
 
 {% embed url="https://youtu.be/AoeeLl5FC-M" caption="Video" %}
 
