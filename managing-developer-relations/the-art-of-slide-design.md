@@ -1,3 +1,9 @@
+---
+description: >-
+  Melinda Seckington shares how some simple design element tweaks can magnify
+  the impact of your presentation.
+---
+
 # The Art of Slide Design
 
 {% embed url="https://youtu.be/AoeeLl5FC-M" %}
