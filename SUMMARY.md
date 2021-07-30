@@ -39,6 +39,7 @@
 * [Planning your DevRel career](managing-developer-relations/planning-your-devrel-career.md)
 * [Dev events beyond 2021](managing-developer-relations/dev-events-beyond-2021.md)
 * [I messed up and I’m going to get fired](managing-developer-relations/i-messed-up-and-im-going-to-get-fired.md)
+* [The Art of Slide Design](managing-developer-relations/the-art-of-slide-design.md)
 
 ## DevRel Carousels in depth <a id="devrel-carousels"></a>
 
