@@ -6,7 +6,7 @@ description: >-
 
 # The Art of Slide Design
 
-{% embed url="https://youtu.be/AoeeLl5FC-M" %}
+{% embed url="https://youtu.be/AoeeLl5FC-M" caption="Video" %}
 
 ## Summary:
 
