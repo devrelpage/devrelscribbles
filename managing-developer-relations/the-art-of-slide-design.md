@@ -157,8 +157,6 @@ So this is exactly the same images as before, but because there’s no overlappi
 * “The usability of a system is improved when similar parts are expressed in similar ways.” 
 * Use consistent designs for slides with the same purpose.
 
-‌
-
 #### Ways
 
 * **Identifying patterns**
@@ -168,12 +166,4 @@ So this is exactly the same images as before, but because there’s no overlappi
   * They become easier to process even though it, kind of, might happen subconsciously. ‌
 
 > _“I don’t believe that there is one true way of creating slides. So this whole talk isn’t about getting you all to create the same type of slides that I do, but rather it’s helping you to get a basic understanding of design and applying it to your own style and presentations.”_
-
-  
-  
-
-
-[  
-](https://youtu.be/AoeeLl5FC-M
-)
 
