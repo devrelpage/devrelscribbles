@@ -74,9 +74,13 @@ Following a 5-step agile process
 
 #### Software Demos
 
-* Aim should be about testifying to the truth of the claims.
-* Basically to show the world that the thing you're announcing is capable of solving users problems as you claimed earlier.
-*  Teaching everyone how to use your software or product to solve their problems
+* Goals:
+** Testify to the truth of the claims you make in the talk track
+** Show a use case an audience member can connect with their own experience
+** Show how the software solves the use-case
+* Anti-goals:
+** You are NOT demonstrating *how to use* your software or product
+** Audience members do not need to learn enough detail to perform tasks
 * Software demo specifications \(example below\) 
 
 ### Composition
