@@ -11,6 +11,7 @@
 * [The hierarchy of developer needs](developer-experience/the-hierarchy-of-developer-needs.md)
 * [GitHub is your documentation landing page](developer-experience/github-is-your-documentation-landing-page.md)
 * [Docs as engineering](developer-experience/docs-as-engineering-an-intro-to-developer-experience-engineering.md)
+* [The Art of Talk Design](developer-experience/the-art-of-talk-design.md)
 
 ## Developer Evangelism
 

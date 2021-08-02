@@ -8,11 +8,11 @@ description: >-
 
 Technical keynotes should be captivating, right? But too many are dull and pitchy. Avery Rosen shares practical tips for pulling off a keynote people will talk about.
 
-{% embed url="https://youtu.be/3xUrL-Z7F40" %}
+{% embed url="https://youtu.be/3xUrL-Z7F40" caption="" %}
 
 ## Summary
 
-#### A rocking technical keynote? 
+#### A rocking technical keynote?
 
 * Big annual developer conference
 * Bunch of announcements 
@@ -44,13 +44,13 @@ Following a 5-step agile process
 * Bunch of announcements 
 * Lots of software demos
 
-#### What does it do? 
+#### What does it do?
 
 * _**Sets**_ the _**tone and gives purpose**_ to the whole event
 * Collects the exposure, product roll-outs and features along with competitive analysis. 
 * Helps in understanding the technical aspect. 
 
-### How to rock the keynote? 
+### How to rock the keynote?
 
 * Breaking down the keynote into a five-part agile process
 * Applying those ⬆️ to _keynotiest_ presentation
@@ -75,12 +75,19 @@ Following a 5-step agile process
 #### Software Demos
 
 * Goals:
-** Testify to the truth of the claims you make in the talk track
-** Show a use case an audience member can connect with their own experience
-** Show how the software solves the use-case
+
+  \*\* Testify to the truth of the claims you make in the talk track
+
+  \*\* Show a use case an audience member can connect with their own experience
+
+  \*\* Show how the software solves the use-case
+
 * Anti-goals:
-** You are NOT demonstrating *how to use* your software or product
-** Audience members do not need to learn enough detail to perform tasks
+
+  _\* You are NOT demonstrating_ how to use\* your software or product
+
+  \*\* Audience members do not need to learn enough detail to perform tasks
+
 * Software demo specifications \(example below\) 
 
 ### Composition
