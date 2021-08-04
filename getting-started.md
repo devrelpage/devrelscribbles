@@ -74,6 +74,10 @@ description: >-
 
 > Developer relations and community management often look like two sides of the same coin, but taking a step back it becomes clear that they are distinct yet related.
 
+{% page-ref page="community-management/creating-high-quality-communities.md" %}
+
+> Gerard runs through the key elements in growing a successful tech community around meet-ups and events.
+
 
 
 ### Managing Developer Relations
@@ -117,6 +121,18 @@ description: >-
 {% page-ref page="managing-developer-relations/building-your-devrel-dream-team.md" %}
 
 > Let's take a look into knowing the key elements required to make a "DevRel dream team".
+
+{% page-ref page="managing-developer-relations/managing-the-burnout-burn-down.md" %}
+
+> A research-based framework for recognising and managing overwork.
+
+{% page-ref page="managing-developer-relations/dev-events-beyond-2021.md" %}
+
+> Various well-known developer event organisers discuss what they see as being the future of gathering, talking about how events will look like in 2021 and beyond!
+
+{% page-ref page="managing-developer-relations/i-messed-up-and-im-going-to-get-fired.md" %}
+
+> David G Simmons shares the reality, including potential upsides, of making mistakes.
 
 
 
