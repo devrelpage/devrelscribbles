@@ -13,18 +13,18 @@ description: >-
 
 * Evaluating your existing program.
 * Keywords
-* Shoe - People 
-* Pyramid - Principals 
-* Truck - Signals 
-* Map - Placemaking
-* Hallway - Journey
-* Flywheel - Publishing
+  * Shoe - People 
+  * Pyramid - Principals 
+  * Truck - Signals 
+  * Map - Placemaking
+  * Hallway - Journey
+  * Flywheel - Publishing
 * Know who you’re actually serving.
 * Defining core principles.
 * Signal change
 * Make a place
 * Journeys 
-* Publishing. 
+* Publishing
 
 ## Scribbles:
 
@@ -42,17 +42,16 @@ description: >-
 ### Know who you’re actually serving 
 
 * Maker is an interesting concept to discuss. 
-  * Maker is someone who puts their hands on the products to solve their personal and professional challenges. 
+  * A maker is someone who puts their hands on the products to solve their personal and professional challenges. 
 * An emphasis is required to keep telling the story of who the maker is. What we’re doing, why we’re doing it, is for the people who actually put their hands on the product.
 * Personal -- these folks want to advance their own skills and abilities. 
 * Professionals, they have goals that they want to meet in their own career.
 * Maker is someone who builds. 
-* Goal of doing DevRel is to try to join them on that building journey. 
+* The goal of doing DevRel is to try to join them on that building journey. 
   * Because they’re going to build with lots of different tools and technologies. 
   * Your hope, your aspiration is to be able to join them in that building process. 
 * Enterprise developer -- security, scalability, and legacy. ‌
 
-‌  
 
 
 ### Defining core principles
@@ -61,7 +60,7 @@ description: >-
 * Why does it really exist? 
 * Not just to drive sales, you have to go deeper than that. 
 * Programs should exist to empower developers along their journey.
-* Tools to solve problem 
+* Tools to solve the problem 
   * Providing solutions that are easy to find and simple to use.
 * Knowledge to grow expertise
   * Delivering insights in areas where we have something to say. 
@@ -75,19 +74,19 @@ description: >-
 
 * You have to give outwards signals, especially when you’re in a turnaround or a reboot, that something has changed. 
 * You have to back that up with visible outward signs. 
-* The visible outward signs had to be backed up with real behind the scenes change. 
+* The visible outward signs had to be backed up with real behindthe scenes change. 
 
 ### Make a place
 
-* Show, don’t tell 
+* **Show, don’t tell** 
   * Demonstrate ability to deliver value; serve first. 
-* Every page is the homepage
+* **Every page is the homepage**
   * Far more traffic enters through the rest of the website 
   * Creating focused opportunities for discoverability is critical
-* Navigation is brand
-  * Educate visitors about your opinionated worldview with an opinionated navigation.
-  * Lead with fesh, topical structure that aligns with user journey. 
-* Best content first, presented in the best way
+* **Navigation is brand**
+  * Educate visitors about your opinionated worldview with opinionated navigation.
+  * Lead with fresh, a topical structure that aligns with user journey. 
+* **Best content first, presented in the best way**
   * Videos, Blogs Learning paths
   * Every grouping of content is not the same, each group must be allowed to be different.
 
@@ -125,12 +124,12 @@ Awareness journey.
 
 ### Keywords Now! 
 
-* Shoe - People 
-* Pyramid - Principals 
-* Truck - Signals 
-* Map - Placemaking
-* Hallway - Journey
-* Flywheel - Publishing
+* Shoe - **People** 
+* Pyramid - **Principals** 
+* Truck - **Signals** 
+* Map - **Placemaking**
+* Hallway - **Journey**
+* Flywheel - **Publishing**
 
 
 
