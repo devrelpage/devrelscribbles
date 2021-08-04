@@ -30,6 +30,28 @@ description: >-
 
 > Mike Stowe takes a look at the Hierarchy of Developer Needs, and how you can use it to balance your efforts and ensure your users are successful.
 
+{% page-ref page="developer-experience/github-is-your-documentation-landing-page.md" %}
+
+> Lorna Mitchell covers what it takes to create a README that engages and informs developers.
+
+{% page-ref page="developer-experience/docs-as-engineering-an-intro-to-developer-experience-engineering.md" %}
+
+> Cristiano Betta shares the practicalities of how they have taken an engineering approach to their API documentation.
+
+{% page-ref page="developer-experience/the-art-of-slide-design.md" %}
+
+> Melinda Seckington shares how some simple design element tweaks can magnify the impact of your presentation.
+
+{% page-ref page="developer-experience/the-art-of-talk-design.md" %}
+
+> Drawing on her extensive experience of conference speaking, Mel shared insights that are a must-see for anyone working in developer relations.
+
+{% page-ref page="developer-experience/commit-messages-vs.-release-notes.md" %}
+
+> Can you make good release notes by collating your commit messages? Eva Parish argues not. Eva Parish explains the different purposes of commit messages and release notes.
+
+
+
 ### Developer Evangelism
 
 {% page-ref page="developer-evangelism/how-to-rock-a-technical-keynote.md" %}
