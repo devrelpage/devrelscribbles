@@ -5,7 +5,7 @@ description: >-
   materials out of silos and into a single experience.
 ---
 
-# Modernizing Red Hat’s enterprise developer program
+# Modernising Red Hat’s enterprise developer program
 
 {% embed url="https://youtu.be/p5XWrdcq1VQ" caption="Video" %}
 
