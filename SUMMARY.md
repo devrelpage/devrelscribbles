@@ -13,6 +13,7 @@
 * [Docs as engineering](developer-experience/docs-as-engineering-an-intro-to-developer-experience-engineering.md)
 * [The Art of Slide Design](developer-experience/the-art-of-slide-design.md)
 * [The Art of Talk Design](developer-experience/the-art-of-talk-design.md)
+* [Commit messages vs. release notes](developer-experience/commit-messages-vs.-release-notes.md)
 
 ## Developer Evangelism
 
