@@ -31,12 +31,12 @@ description: >-
 #### Six things to remember when evaluating your existing program. 
 
 * Keywords
-  * Shoe 
-  * Pyramid 
-  * Truck
-  * Map
-  * Hallway
-  * Flywheel  
+  * **Shoe** 
+  * **Pyramid** 
+  * **Truck**
+  * **Map**
+  * **Hallway**
+  * **Flywheel**  
 * ⬆️ They’ll make some sense by the end of the scribble  
 
 ### Know who you’re actually serving 
