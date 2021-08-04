@@ -14,6 +14,7 @@
 * [The Art of Slide Design](developer-experience/the-art-of-slide-design.md)
 * [The Art of Talk Design](developer-experience/the-art-of-talk-design.md)
 * [Commit messages vs. release notes](developer-experience/commit-messages-vs.-release-notes.md)
+* [Modernizing Red Hat’s enterprise developer program](developer-experience/modernizing-red-hats-enterprise-developer-program.md)
 
 ## Developer Evangelism
 
