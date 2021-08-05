@@ -16,6 +16,7 @@
 * [Commit messages vs. release notes](developer-experience/commit-messages-vs.-release-notes.md)
 * [Modernising Red Hat’s enterprise developer program](developer-experience/modernizing-red-hats-enterprise-developer-program.md)
 * [The Art of Story Design](developer-experience/the-art-of-story-design.md)
+* [A11y pal\(ly\)- crafting universally good docs](developer-experience/a11y-pal-ly-crafting-universally-good-docs.md)
 
 ## Developer Evangelism
 
