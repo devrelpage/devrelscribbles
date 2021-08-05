@@ -15,6 +15,7 @@
 * [The Art of Talk Design](developer-experience/the-art-of-talk-design.md)
 * [Commit messages vs. release notes](developer-experience/commit-messages-vs.-release-notes.md)
 * [Modernising Red Hat’s enterprise developer program](developer-experience/modernizing-red-hats-enterprise-developer-program.md)
+* [The Art of Story Design](developer-experience/the-art-of-story-design.md)
 
 ## Developer Evangelism
 
