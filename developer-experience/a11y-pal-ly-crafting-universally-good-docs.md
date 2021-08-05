@@ -1,11 +1,13 @@
 ---
 description: >-
-  Google’s Sangeetha Alagappan talks through making your docs inclusive, what
+  Google’s Sangeetha Alagappan talks about making your docs inclusive, what
   accessibility means in the context of documentation, and common pitfalls you
   might encounter.
 ---
 
 # A11y pal\(ly\)- crafting universally good docs
+
+
 
 {% embed url="https://youtu.be/v\_jouD0A\_iI" caption="Video" %}
 
