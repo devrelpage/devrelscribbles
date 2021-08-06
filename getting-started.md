@@ -50,6 +50,22 @@ description: >-
 
 > Can you make good release notes by collating your commit messages? Eva Parish argues not. Eva Parish explains the different purposes of commit messages and release notes.
 
+{% page-ref page="developer-experience/modernizing-red-hats-enterprise-developer-program.md" %}
+
+> Joe Schram talks us through the process of putting developers back in the spotlight. You’ll hear how Red Hat have brought together their developer materials out of silos and into a single experience.
+
+{% page-ref page="developer-experience/the-art-of-story-design.md" %}
+
+> Melinda Seckington completes her three-part series on how to create great conference talks.
+
+{% page-ref page="developer-experience/a11y-pal-ly-crafting-universally-good-docs.md" %}
+
+> Google’s Sangeetha Alagappan talks about making your docs inclusive, what accessibility means in the context of documentation, and common pitfalls you might encounter.
+
+{% page-ref page="developer-experience/inspiring-and-empowering-users-to-become-great-writers-and-why-thats-important.md" %}
+
+> In this talk from DevRelCon London 2019, Jo Cook talks about The Good Docs Project and Google’s Season of Docs are working to make it easier to create excellent open-source documentation.
+
 
 
 ### Developer Evangelism
