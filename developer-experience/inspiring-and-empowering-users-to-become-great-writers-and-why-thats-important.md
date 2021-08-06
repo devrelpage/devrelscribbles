@@ -37,13 +37,9 @@ description: >-
 * The ratio of women in IT is between 17 and 25%, but in open source, it’s between 0.1 and 5%. 
 * What that means is that there’s a big pooling of talent, which could be being mined for participation in projects.
 
-‌
-
 #### Documentation is often severely lacking
 
 * It’s seen as being a big barrier to participation, adoption, and contribution. 
-
-‌
 
 #### Getting help is tricky, and again
 
@@ -51,11 +47,11 @@ description: >-
   * “93% of respondents spotted problems with documentation
   *  60% of those people say they rarely or never contribute.”
 
+### 
+
 ### They’re not dying, they are under-resourced!
 
 * Open source projects, they’re not dying, but they are under-resourced, not very well-documented, and they don’t attract diverse contributions.
-
-‌
 
 #### How do we go about fixing this problem? 
 
@@ -74,6 +70,8 @@ description: >-
 * **Users that really know what their own expectations and needs are.**
 * **Users that are actually going to be using the documentation.**
 
+### 
+
 ### What things put people off?
 
 * When you’re writing documentation, or when you’re trying to get them to help you when you’re trying to get them to contribute.
@@ -81,10 +79,7 @@ description: >-
   *  What we’re talking about here is, is it easy for people to contribute to your documentation? 
 * Users are more likely to help you ensure that your documentation covers these early, painful setup stages.
   * They’re actually not all that focused on the endgame. 
-  * They just want to get things done. 
-
-‌  
-
+  * They just want to get things done.  
 
 ### How do we reduce the barrier to entry? 
 
@@ -96,15 +91,12 @@ description: >-
   * These contributions, small contributions, lead to bigger contributions.
 * Acknowledge contributions, no matter how small they are, because they are important to the people that made them, and they’re important to your project.
 
-‌  
-
-
 #### Work with existing technical writers
 
 * There are lots of technical writers out there with huge amounts of subject matter expertise. 
 * They’re not secretaries. 
 * As developers, your best bet is to really make friends with those technical writing people. 
-* Provide workflows that make it easier to write good documentation, and find all of those existing good practices.  ‌
+* Provide workflows that make it easier to write good documentation, and find all of those existing good practices. 
 
 ### Good Docs Project
 
