@@ -9,8 +9,6 @@ description: >-
 
 {% embed url="https://youtu.be/XUj8I9ecZgY" caption="Video" %}
 
-
-
 ## Summary:
 
 * Find out the **Problem.**
@@ -69,7 +67,7 @@ description: >-
 * Good way of getting people involved in projects,
 * Good way of establishing more inclusive and accessible communities. 
 * brings in people from different communities, and encouraging contributions to more than just the code makes the project a lot more resilient in the long run. 
-* **Developers to miss out steps**
+* **Developers miss out on steps**
   * Users are the best people to write documentation.
   * Easy for developers to miss out on steps because they’re very, very close to their software.
 * **Developers are familiar with the technical terminologies that they use.** 
@@ -78,7 +76,7 @@ description: >-
 
 ### What things put people off?
 
-* When you’re writing documentation, or when you’re trying to get them to help you, when you’re trying to get them to contribute.
+* When you’re writing documentation, or when you’re trying to get them to help you when you’re trying to get them to contribute.
 * High barriers to entry.
   *  What we’re talking about here is, is it easy for people to contribute to your documentation? 
 * Users are more likely to help you ensure that your documentation covers these early, painful setup stages.
