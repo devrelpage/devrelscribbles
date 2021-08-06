@@ -8,10 +8,6 @@ description: >-
 
 {% embed url="https://youtu.be/nJiBJsPkZgU" caption="Video" %}
 
-
-
-
-
 ## Summary:
 
 * Stay out of the way during hack week. 
