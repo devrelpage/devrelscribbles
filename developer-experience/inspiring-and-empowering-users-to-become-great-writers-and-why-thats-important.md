@@ -2,7 +2,7 @@
 description: >-
   In this talk from DevRelCon London 2019, Jo Cook talks about The Good Docs
   Project and Google’s Season of Docs are working to make it easier to create
-  excellent open source documentation.
+  excellent open-source documentation.
 ---
 
 # Inspiring and empowering users to become great writers, and why that’s important
