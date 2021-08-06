@@ -18,6 +18,7 @@
 * [The Art of Story Design](developer-experience/the-art-of-story-design.md)
 * [A11y pal\(ly\)- crafting universally good docs](developer-experience/a11y-pal-ly-crafting-universally-good-docs.md)
 * [Inspiring and empowering users to become great writers, and why that’s important](developer-experience/inspiring-and-empowering-users-to-become-great-writers-and-why-thats-important.md)
+* [Dogfooding developer products: gathering insights from internal hackathons](developer-experience/dogfooding-developer-products-gathering-insights-from-internal-hackathons.md)
 
 ## Developer Evangelism
 
