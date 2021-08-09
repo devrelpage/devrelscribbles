@@ -1,8 +1,8 @@
 ---
 description: >-
-  In this session from DevRelCon London 2019, Gary Niemen share they story of
-  how their approach to documentation has changed at Spotify, drawing parallels
-  with Joseph Campbell’s Hero’s Journey framewor
+  Gary Niemen share their story of how their approach to documentation has
+  changed at Spotify, drawing parallels with Joseph Campbell’s Hero’s Journey
+  framework.
 ---
 
 # Solving internal technical documentation at Spotify
