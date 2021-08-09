@@ -12,17 +12,17 @@ description: >-
 ## Summary:
 
 * The Hero’s Journey and how they are solving technical documentation at Spotify.
-  * treating docs like code. ‌  
+  * treating docs like code. ‌ 
 * What have we learned?
   * Keep focused on the key problem
   * Keep the solution simple so it just works? 
   * Fiercely optimize for the engineer.
   * Enable others to build on the platform
-  * Standardize and centralize.  
+  * Standardize and centralize. 
 * What’s next?
-* They need to work more on trust and maintenance.
-* Open-sourcing TechDocs
-* They haven't solved yet in-code documentation
+  * They need to work more on trust and maintenance.
+  * Open-sourcing TechDocs
+  * They haven't yet solved in-code documentation. \(They may have by now -- given its 2 years from the conference\)
 
 ## Scribbles:
 
