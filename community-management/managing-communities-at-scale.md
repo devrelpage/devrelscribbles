@@ -37,6 +37,6 @@ description: >-
 ### _**Tips for better community lead**_  
 
 * Systemize things faster.
-*  Build systems and processes
-* Document everything whenever possible. 
+*  Build systems and processes.
+* Document everything whenever possible.
 
