@@ -4,7 +4,7 @@ description: >-
   communities with Brian Douglas, Developer Advocate at GitHub.
 ---
 
-# Growing Open-Source community?
+# How to grow a healthy Open-Source community?
 
 {% embed url="https://youtu.be/qdGNyh7cwxk" caption="Video" %}
 
