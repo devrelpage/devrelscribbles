@@ -33,6 +33,7 @@
 * [DevRel = Community Management?](community-management/devrel-community-management.md)
 * [Creating high-quality communities](community-management/creating-high-quality-communities.md)
 * [Growing Open-Source community?](community-management/growing-open-source-community.md)
+* [Managing communities at scale](community-management/managing-communities-at-scale.md)
 
 ## Managing Developer Relations
 
