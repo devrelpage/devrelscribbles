@@ -66,6 +66,18 @@ description: >-
 
 > In this talk from DevRelCon London 2019, Jo Cook talks about The Good Docs Project and Google’s Season of Docs are working to make it easier to create excellent open-source documentation.
 
+{% page-ref page="developer-experience/dogfooding-developer-products-gathering-insights-from-internal-hackathons.md" %}
+
+> Josh Brown shares Spotify’s experience of using internal hackathons to learn about the APIs they’ve developed, in this talk from DevRelCon London 2019.
+
+{% page-ref page="developer-experience/solving-internal-technical-documentation-at-spotify.md" %}
+
+> Gary Niemen share their story of how their approach to documentation has changed at Spotify, drawing parallels with Joseph Campbell’s Hero’s Journey framework.
+
+{% page-ref page="developer-experience/untitled.md" %}
+
+> In this session from DevRelCon London 2019, Max Kahan talks about the importance of play in developer education.
+
 
 
 ### Developer Evangelism
@@ -93,6 +105,22 @@ description: >-
 {% page-ref page="community-management/creating-high-quality-communities.md" %}
 
 > Gerard runs through the key elements in growing a successful tech community around meet-ups and events.
+
+{% page-ref page="community-management/growing-open-source-community.md" %}
+
+> Twitter Spaces fireside chat as we discuss growing healthy open-source communities with Brian Douglas, Developer Advocate at GitHub.
+
+{% page-ref page="community-management/managing-communities-at-scale.md" %}
+
+> Orbit CEO Patrick Woods and Community Lead Rosie Sherry, discuss how you manage a community at scale and the lessons learned scaling up along the way with Ben Lang, Community Lead at Notion.
+
+{% page-ref page="community-management/using-community-to-drive-growth.md" %}
+
+> How you drive business growth with Community and why you need a Go-to-Community strategy, not just Go-to-Market.
+
+{% page-ref page="community-management/how-different-folks-from-various-backgrounds-started-building-community-and-what-worked-for-them..md" %}
+
+> How experienced community leaders from various backgrounds started building community and what worked for them.
 
 
 
