@@ -35,6 +35,7 @@
 * [How to grow a healthy Open-Source community?](community-management/growing-open-source-community.md)
 * [Managing communities at scale](community-management/managing-communities-at-scale.md)
 * [Using community to drive growth](community-management/using-community-to-drive-growth.md)
+* [How different folks from various backgrounds started building community and what worked for them.](community-management/how-different-folks-from-various-backgrounds-started-building-community-and-what-worked-for-them..md)
 
 ## Managing Developer Relations
 
