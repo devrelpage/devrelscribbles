@@ -134,13 +134,13 @@ Quote - “People are taking this up, and they are now talking to students, taki
 
 * MQ Verbs tell you how to interact with the server. And they often say it’s a very elegant API. 
 * Only has 26 verbs, and then you can do everything with those. 
-  * Behind each of those, there is like a Library of material that you have to go through, in order to understand what you need to do. 
+  * Behind each of those, there is a library of material that you have to go through, in order to understand what you need to do. 
   * Admins, they understand all of this, they know how it works. But for developers, they see this, and they tend to move on to something else. 
-  * It was really useful and hard work to begin with. But they came up with all their samples and all the patterns, in different languages. And they’re consistent. 
+  * But they came up with all their samples and all the patterns, in different languages. And they’re consistent. 
 
 #### How did they do this?
 
-* They picked some of the basic patterns, and obviously they started with Java.
+* They picked some of the basic patterns, and obviously, they started with Java.
   * They wrote a lot of their initial material for JMS. 
 * They also touched their MQI, which is the native API. And they have thin wrapper libraries for Go and Node. 
 
@@ -148,14 +148,8 @@ Quote - “People are taking this up, and they are now talking to students, taki
 
 * They would start with Java, they thought we’d finished, test it, and put out Java. 
 * They went and worked on Go and Node. 
-* Their teams was  surrounded by experts, and developers who developed MQ
+* Their teams were  surrounded by experts, and developers who developed MQ
   * They wanted to go through the pain that their developers go through, and not ask too many questions. 
 * They tried to look for pointers and tried to solve their problem on their own 
 * They wouldn’t actually ask for more help until they would spend two or three days not being able to do it. 
-
-‌  
-  
-
-
-
 
