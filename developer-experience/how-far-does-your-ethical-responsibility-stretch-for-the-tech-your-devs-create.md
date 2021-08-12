@@ -59,13 +59,11 @@ _\*\*\*\*_
 
 ![Pic taken from the ](https://lh5.googleusercontent.com/AN5y-RZ3qoyR61WBiI4xJwjFfd-tkisRBOtefqRiZr8ML4AljnrqjeK4wvApyk__iDRuShBcF1OkI3xNqOv6NWZ-W2LW-HVQ9cQnb9vL-7dJwRxYnUQpMnBLuHAPAs-l2ICui1w)
 
-#### How would you report on violation of ethics? 
+#### How would you report on a violation of ethics? 
 
-* Most don’t know how to report it and they don’t know how to handle it. 
+* Most don’t know how to report it and they don’t know how to handle it.
 
-Quote “Developers can actually be the last line of defense against unethical code.” Wow.
-
-‌
+> _**“Developers can actually be the last line of defence against unethical code.” Wow**_
 
 #### Root cause
 
@@ -74,7 +72,7 @@ Quote “Developers can actually be the last line of defense against unethical c
 * Shareholder expectations 
 * Incomplete information.
 * Culture lacking in psychological safety 
-  * Feeling very uncomfortable to speak up. 
+  * Feeling very uncomfortable speaking up. 
 
 #### What can we do about it? 
 
@@ -85,11 +83,11 @@ Quote “Developers can actually be the last line of defense against unethical c
 
 * Culture is not created from top-down. 
 * “Here’s what our culture is. It’s written on the walls and everybody follows it.” 
-* Culture is really about what happens everyday, day-to-day in business, and culture can change from the bottom-up. 
+* Culture is really about what happens every day, day-to-day in business, and culture can change from the bottom-up. 
 
 #### Psychological safety? 
 
-* If you’re in a meeting with your boss and you worry about reprisal for speaking your mind, or telling them, “This is not OK. “This is not ethical,” then it means you don’t have psychological safety within your team, or with your boss, or with your peers. 
+* If you’re in a meeting with your boss and you worry about reprisal for speaking your mind or telling them, “This is not OK. “This is not ethical,” then it means you don’t have psychological safety within your team, or with your boss, or with your peers. 
 
 #### How can you create it in other people?
 
@@ -97,22 +95,18 @@ Quote “Developers can actually be the last line of defense against unethical c
 * Moment someone says something you don’t want to hear, or even if they bring a personal attack, instead of defending or having a fight reaction, try to become curious about what it is.
   * The depth of that feedback. 
   * Where do they come from with this?
-  * What’s going on there?  
+  * What’s going on there? 
 * Key part of psychological safety is being able to listen and understand. 
 * Not just listen to respond. 
 * Understanding takes a willingness and curiosity to get in the shoes of the other person who’s trying to tell you something. 
 * Talk about times when they failed and times when they were wrong. 
   * People often feel that they have to show that they’re right. 
 
-‌
-
 ### What can DevRel do about it?
 
 * DevRel can act as a safe channel to leadership. 
 
-> Think of it this way, if some engineers of GitHub didn’t feel safe within their departments to speak up, dev rel could have gathered all of those numbers and all of that feedback.
-
-
+> _**Think of it this way, if some engineers of GitHub didn’t feel safe within their departments to speak up, dev rel could have gathered all of those numbers and all of that feedback.**_
 
 * It comes down to how we can empower our own teams 
 * How we can empower the developers that we work with.
