@@ -56,47 +56,45 @@ description: >-
   * Developer essentials badge
   * Sample in five languages using 3 APIs
 
-MQ … ? 
+**MQ …?** 
 
 * What is MQ and how does it work? 
 * Mainly, they have a server component that is installed and configured, and then they have applications that interact with the server. 
-* And basically what this is for is moving data in messages between systems and applications; in a very low level explanation. 
+* And basically what this is for is moving data in messages between systems and applications; in a very low-level explanation. 
 * Two types of users -- admins and developers.
-  * The admins are looking after the server side of things, and application developers are developing applications. And there’s something in how they’re interacting, and how things have developed over the years that isn’t quite working anymore. We’ll dig into that a little bit later. 
+  * The admins are looking after the server-side of things, and application developers are developing applications. 
+  * How they’re interacting, and how things have developed over the years that aren't quite working anymore. 
 * In terms of what it does for business, it connects the pieces and makes everything work together.
-
-‌  
-
 
 ### Enterprise Design Thinking
 
-* Loop
+* **Loop**
   * Drive business by helping users achieve their goals.  
-* Restless Reinvention
+* **Restless Reinvention**
   * They observe, reflect, make. 
   * They try to work with diverse teams because at that point --  get the best information and different points of view. 
-* Diverse Empowered Teams 
+* **Diverse Empowered Teams** 
   * Move faster by empowering diverse teams to act. 
-* Observe 
+* **Observe** 
   * Immerse yourself in the real world. 
-* Reflect
+* **Reflect**
   * Come together and look within.
-* Make
+* **Make**
   * Give concrete form to abstract ideas. 
-* Hills
+* **Hills**
   * Aligns teams in meaningful user outcomes to achieve. 
-* Playbacks 
+* **Playbacks** 
   * Stay aligned by regularly exchanging feedback.
-* Sponsor Users
-  * Invite Users into the work to stay true to real world needs. 
+* **Sponsor Users**
+  * Invite Users into the work to stay true to real-world needs. 
 
 ### Empathy
 
-* First stage of design thinking. 
+* It is the first stage of design thinking. 
 * Putting yourself in the shoes of your user. 
-* Imagine how things work for them, and to understand what their problems are. 
+* Imagine how things work for them, and understand what their problems are. 
 * They work with empathy maps. they try and figure out what their users say, think, do and feel. 
-* Helps them understand, when they start building solutions for their users, how best to go about it. ‌
+* Helps them understand when they start building solutions for their users, how best to go about it. ‌
 
 #### Hills 
 
@@ -107,17 +105,17 @@ MQ … ?
 
 #### How did they go about it?
 
-* They created a platform which wasn’t anything very complicated. 
+* They created a platform that wasn’t anything very complicated. 
 * What did they help them to understand? 
-  * Just the very basics about what their messaging is, what MQ is. 
+  * Just the very basics about what their message is, what MQ is. 
   * How they can stand up and setup, without understanding everything that admins have to understand. 
   * They gave it to them in Docker, with some default configuration in there so that they didn’t have to learn everything. 
-* They were getting good feedback through the websites, and through some events. 
+* They were getting good feedback through the websites and through some events. 
 * Admins -- they came in for a user-group meeting, 
   * Try and tell them about everything new that’s happening. 
   * Asked them some questions, what they thought problems were when developers deliver codes. 
   * They tried to get them to empathize with developers. 
-  * Why would they deliver such bad codes, that then wouldn’t work? And they didn’t think they were going to engage with the process but they went all out. 
+  * Why would they deliver such bad codes, that they wouldn’t work? And they didn’t think they were going to engage with the process but they went all out. 
 
 ### Developer Essential Badges
 
@@ -125,7 +123,7 @@ MQ … ?
 * They didn’t start from scratch. They had some materials from the LearnMQ platform that I started with before. 
 * They started really simply, which sounded quite weird. they started with questions, they went around their team and asked everyone what they thought the questions would be for developers to learn. 
 * They created a challenge for developers to actually go and look at some codes. they did it in such a way that they would have some backup and troubleshooting.
-* They put those samples in GitHub in three ways, so that if they didn’t really want to get their hands dirty, and code it from scratch, they could fix some bugs. 
+* They put those samples in GitHub in three ways, so that if they didn’t really want to get their hands dirty and code it from scratch, they could fix some bugs. 
 
 Quote - “People are taking this up, and they are now talking to students, taking it to universities, and possibly doing customer workshops.”   
   
