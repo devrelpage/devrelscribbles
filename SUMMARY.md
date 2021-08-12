@@ -22,6 +22,7 @@
 * [Solving internal technical documentation at Spotify](developer-experience/solving-internal-technical-documentation-at-spotify.md)
 * [Engaging 9-year-old software developers](developer-experience/untitled.md)
 * [Making 22-year-olds love 26-year-old software](developer-experience/making-22-year-olds-love-26-year-old-software.md)
+* [How far does your ethical responsibility stretch for the tech your devs create?](developer-experience/how-far-does-your-ethical-responsibility-stretch-for-the-tech-your-devs-create.md)
 
 ## Developer Evangelism
 
