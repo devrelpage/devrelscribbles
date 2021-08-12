@@ -57,7 +57,7 @@ _\*\*\*\*_
   * One-third learned to code in the last nine years and a lot of them don’t have a lot of business experience either, 
   * There’s a lack of context and a lack of just knowing how to interact, especially within a big corporate environment.
 
-![Pic taken from the ](https://lh5.googleusercontent.com/AN5y-RZ3qoyR61WBiI4xJwjFfd-tkisRBOtefqRiZr8ML4AljnrqjeK4wvApyk__iDRuShBcF1OkI3xNqOv6NWZ-W2LW-HVQ9cQnb9vL-7dJwRxYnUQpMnBLuHAPAs-l2ICui1w)
+![ Taken from the orginal presentation](https://lh5.googleusercontent.com/AN5y-RZ3qoyR61WBiI4xJwjFfd-tkisRBOtefqRiZr8ML4AljnrqjeK4wvApyk__iDRuShBcF1OkI3xNqOv6NWZ-W2LW-HVQ9cQnb9vL-7dJwRxYnUQpMnBLuHAPAs-l2ICui1w)
 
 #### How would you report on a violation of ethics? 
 
