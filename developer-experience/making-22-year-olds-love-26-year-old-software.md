@@ -4,7 +4,7 @@ description: >-
   audiences excited about older tech if you serve them well.
 ---
 
-# Making 22 year olds love 26-year-old software
+# Making 22-year-olds love 26-year-old software
 
 {% embed url="https://youtu.be/lcbX3M3Jzls" caption="Video" %}
 

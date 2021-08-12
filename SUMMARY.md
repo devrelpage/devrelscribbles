@@ -21,7 +21,7 @@
 * [Dogfooding developer products: gathering insights from internal hackathons](developer-experience/dogfooding-developer-products-gathering-insights-from-internal-hackathons.md)
 * [Solving internal technical documentation at Spotify](developer-experience/solving-internal-technical-documentation-at-spotify.md)
 * [Engaging 9-year-old software developers](developer-experience/untitled.md)
-* [Making 22 year olds love 26-year-old software](developer-experience/making-22-year-olds-love-26-year-old-software.md)
+* [Making 22-year-olds love 26-year-old software](developer-experience/making-22-year-olds-love-26-year-old-software.md)
 
 ## Developer Evangelism
 
