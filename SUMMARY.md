@@ -23,6 +23,7 @@
 * [Engaging 9-year-old software developers](developer-experience/untitled.md)
 * [Making 22-year-olds love 26-year-old software](developer-experience/making-22-year-olds-love-26-year-old-software.md)
 * [How far does your ethical responsibility stretch for the tech your devs create?](developer-experience/how-far-does-your-ethical-responsibility-stretch-for-the-tech-your-devs-create.md)
+* [The Power of Content](developer-experience/the-power-of-content.md)
 
 ## Developer Evangelism
 
