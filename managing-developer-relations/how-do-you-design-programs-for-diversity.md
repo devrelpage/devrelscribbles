@@ -7,8 +7,6 @@ description: >-
 
 # How do you design programs for diversity?
 
-
-
 {% embed url="https://youtu.be/kO66Y-501dc" caption="Video" %}
 
 ## Summary:
@@ -27,7 +25,7 @@ description: >-
   * Testing the idea.
 * Leverage
   * How can we maximise benefits?
-* This process helps in becoming a better organizer, and helps to be a better leader then eventually leads to creation of something meaningful.
+* This process helps in becoming a better organizer, and helps to be a better leader then eventually leads to the creation of something meaningful.
 
 ## Scribbles:
 
@@ -49,15 +47,15 @@ description: >-
 * Vision helps with understanding if we’re solving the right problem. 
 * DevRels can solve a lot of all the problems - not all problems are the right problems to solve. 
 * Having a strong vision sets the foundation, helps set the right direction
-* Understand what sort of metrics that will be important for you. 
+* Understand what sort of metrics will be important for you. 
 
 ### Understand
 
 * Questions to ask…
   * What is the problem?
   * How are people solving the problem now? 
-  * Why are the current solutions inadequate
-* Not everyone learn how to code to become software engineers. Some of them just want to learn because it’s fun. 
+  * Why are the current solutions inadequate?
+* Not everyone learns how to code to become a software engineer. Some of them just want to learn because it’s fun. 
   * Some of them want to learn to enhance their current role. 
 
 ### Define 
@@ -66,12 +64,11 @@ description: >-
 * Define is understanding who our audience is, what are their hopes and dreams and fears, and how can we reach out to them. 
 * Helps in focusing on who exactly I’m helping. 
 
-User Persona
+_**User Persona**_
 
 * User Persona is related to your vision and also what problem you’re solving.
 
-‌  
-
+‌
 
 ### IDEATE
 
@@ -90,38 +87,17 @@ User Persona
 * Questions to ask.. 
   * What is the best way to test this? 
   * What are the risks involved? 
-  * What did you learn?  
+  * What did you learn? 
 
-Testing Methods
+_**Testing Methods**_
 
 * Feedback from users 
 * Run a small event 
-* Creating prototype  
+* Creating prototype 
 
 ### Leverage
 
 * Leverage is simply to squeeze any ounce of, in fact, other things that you are already doing.
 * What are some other goals that you can achieve? 
 * What are some of the momentum that you can create from the things that you are already doing? 
-
-‌  
-
-
-‌  
-
-
-‌  
-  
-  
-  
-  
-  
-
-
-
-
-[  
-](
-https://youtu.be/kO66Y-501dc
-)
 
