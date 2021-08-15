@@ -62,7 +62,7 @@ description: >-
   * Dev-rel Qualified Leads
   *  Listen to the community first before your sales pitch.
 * **@Matthew**: Leads. 
-* **@Joe**: Number of commits made by Github student users. 
+* **@Joe**: Number of commits made by GitHub student users. 
 
 ### Community is ❌
 

@@ -15,7 +15,7 @@ description: >-
 * Having well written and consistent commit messages are important and having great release notes is also important, the two are not interchangeable. 
 * **Commit messages** are terse technical descriptions of what you’ve changed in a unit of work and why, for an audience of developers.
   * Commit messages are a chance to capture the context around what you’ve done in a way that will make things easier for your future self and your coworkers.
-  * It only takes a few extra seconds of brainpower to write a commit message that’s useful  
+  * It only takes a few extra seconds of brainpower to write a commit message that’s useful 
 * **Release notes** are a list of the important user-facing changes in a release, generally written at a less technical level of detail and focusing more on behaviour.
   * Release notes are an excellent opportunity to tell your users about the awesome thing you’ve built and why they should use it.
 

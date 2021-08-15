@@ -64,7 +64,6 @@ description: >-
 * Having every part of your documentation navigable by keyboard.
   * Everything has to be reachable with tabs.
   * Your left and right and bottom keys, your enter key. It’s always important to check if it can be navigated by the keyboard.
-  * 
 * State indicators. 
   * If this were an error message, you wouldn’t be able to tell if it was red or green if you had red-green colour blindness. 
   * So, the idea is to not rely on just one visual cue. 
@@ -86,18 +85,13 @@ description: >-
   * Broader categories that people could go to the right on the top, like channels, categories, A to Z, TV guides, so you could format how you wanted to consume this information. 
   * Saving favourites.
 
-‌
-
 ### Case study 2: Trello
 
 * If you use any sort of project management tool, like Canva and all of these things, it’s essentially the ability to put things into to-do lists.
 * Trello realized that when you have coloured labels, it’s kind of hard to tell if you don’t have colour. 
   * They added a colour-blind friendly mode
     * You can add patterns to the edges of your labels so that you can differentiate it even if there’s no colour. 
-    * The response to this on Twitter was actually incredibly positive, which if you’ve ever been on Twitter, is almost a miracle. 
-
-‌  
-
+    * The response to this on Twitter was actually incredibly positive, which if you’ve ever been on Twitter, is almost a miracle.  
 
 ### Case study 2: NPR
 

@@ -26,8 +26,6 @@ description: >-
 
 ## Scribbles:
 
-‌
-
 ### Ordinary world
 
 * At Spotify, they have about 1,500 engineers and a lot of the engineers are making tours or platforms for other engineers at Spotify. 

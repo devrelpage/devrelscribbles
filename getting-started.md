@@ -38,11 +38,11 @@ description: >-
 
 > Cristiano Betta shares the practicalities of how they have taken an engineering approach to their API documentation.
 
-{% page-ref page="developer-experience/the-art-of-slide-design.md" %}
+{% page-ref page="developer-evangelism/the-art-of-slide-design.md" %}
 
 > Melinda Seckington shares how some simple design element tweaks can magnify the impact of your presentation.
 
-{% page-ref page="developer-experience/the-art-of-talk-design.md" %}
+{% page-ref page="developer-evangelism/the-art-of-talk-design.md" %}
 
 > Drawing on her extensive experience of conference speaking, Mel shared insights that are a must-see for anyone working in developer relations.
 
@@ -50,11 +50,11 @@ description: >-
 
 > Can you make good release notes by collating your commit messages? Eva Parish argues not. Eva Parish explains the different purposes of commit messages and release notes.
 
-{% page-ref page="developer-experience/modernizing-red-hats-enterprise-developer-program.md" %}
+{% page-ref page="modernizing-red-hats-enterprise-developer-program.md" %}
 
 > Joe Schram talks us through the process of putting developers back in the spotlight. You’ll hear how Red Hat have brought together their developer materials out of silos and into a single experience.
 
-{% page-ref page="developer-experience/the-art-of-story-design.md" %}
+{% page-ref page="developer-evangelism/the-art-of-story-design.md" %}
 
 > Melinda Seckington completes her three-part series on how to create great conference talks.
 
@@ -66,7 +66,7 @@ description: >-
 
 > In this talk from DevRelCon London 2019, Jo Cook talks about The Good Docs Project and Google’s Season of Docs are working to make it easier to create excellent open-source documentation.
 
-{% page-ref page="developer-experience/dogfooding-developer-products-gathering-insights-from-internal-hackathons.md" %}
+{% page-ref page="dogfooding-developer-products-gathering-insights-from-internal-hackathons.md" %}
 
 > Josh Brown shares Spotify’s experience of using internal hackathons to learn about the APIs they’ve developed, in this talk from DevRelCon London 2019.
 
@@ -74,7 +74,7 @@ description: >-
 
 > Gary Niemen share their story of how their approach to documentation has changed at Spotify, drawing parallels with Joseph Campbell’s Hero’s Journey framework.
 
-{% page-ref page="developer-experience/untitled.md" %}
+{% page-ref page="untitled.md" %}
 
 > In this session from DevRelCon London 2019, Max Kahan talks about the importance of play in developer education.
 
@@ -90,7 +90,7 @@ description: >-
 
 ### Community Management
 
-{% page-ref page="community-management/outside-the-lecture-theatre.md" %}
+{% page-ref page="outside-the-lecture-theatre.md" %}
 
 > Joe Nash, who has done an excellent job at building student communities, talks about how and why you should targeting students, making them an invaluable asset for your organisation in the long term.
 
@@ -126,55 +126,55 @@ description: >-
 
 ### Managing Developer Relations
 
-{% page-ref page="managing-developer-relations/tooling-your-way-to-a-great-devrel-team.md" %}
+{% page-ref page="misc/tooling-your-way-to-a-great-devrel-team.md" %}
 
 > Christiano Betta talks about the importance of creating different tools and collecting metrics, especially for startups helping them grow more with a small team!
 
-{% page-ref page="managing-developer-relations/distributed-developer-relations.md" %}
+{% page-ref page="managing-a-devrel-team/distributed-developer-relations.md" %}
 
 > Brandon West from Amazon AWS talks about how to manage a distributed developer relations team, especially where each person on the team tends to travel a lot.
 
-{% page-ref page="managing-developer-relations/is-developer-relations-right-for-you.md" %}
+{% page-ref page="misc/is-developer-relations-right-for-you.md" %}
 
 > How do you know whether moving into developer relations or DevRel is right for you?
 
-{% page-ref page="managing-developer-relations/understanding-company-goals.md" %}
+{% page-ref page="managing-a-devrel-team/understanding-company-goals.md" %}
 
 > Whenever it has come asking as to "what is the main role of DevRel team"? The answer-- "It totally depends", which definitely raises more doubt in the mind of the person asking it.
 
-{% page-ref page="managing-developer-relations/devrel-qualified-leads-dql.md" %}
+{% page-ref page="managing-a-devrel-team/devrel-qualified-leads-dql.md" %}
 
 > What's the ROI -- the metrics to measure them -- explaining it to an employee. With DevRel Qualified Leads you first set your own metrics that truly reflect the value of the work that you do.
 
-{% page-ref page="managing-developer-relations/path-to-success-for-devrel.md" %}
+{% page-ref page="managing-a-devrel-team/path-to-success-for-devrel.md" %}
 
 > Scribble from Mary Thengvall's amazing blog "The DevRel Path To Success: Awareness, Enablement, Engagement", which talks about what are the key elements of a developer relations team.
 
-{% page-ref page="managing-developer-relations/untitled.md" %}
+{% page-ref page="managing-a-devrel-team/untitled.md" %}
 
 > How does one move up in their organization as a DevRel? What does that "up" even look like if it even exists! Let's take notes from Chris Noring who is a Developer Advocate at Microsoft.
 
-{% page-ref page="managing-developer-relations/life-as-a-developer-advocate.md" %}
+{% page-ref page="life-as-a-developer-advocate.md" %}
 
 > Take a look at the life of a developer advocate working at facebook's open-source team, taking a dive into a few tips, tips to be a great advocate and what does it take to be an advocate.
 
-{% page-ref page="managing-developer-relations/four-pillars-of-devrel.md" %}
+{% page-ref page="managing-a-devrel-team/four-pillars-of-devrel.md" %}
 
 > To devise a DevRel strategy, one must understand their company's needs and the tactics that can be used to meet them. Let's take a look at the four pillars to understand all of this in a better way.
 
-{% page-ref page="managing-developer-relations/building-your-devrel-dream-team.md" %}
+{% page-ref page="managing-a-devrel-team/building-your-devrel-dream-team.md" %}
 
 > Let's take a look into knowing the key elements required to make a "DevRel dream team".
 
-{% page-ref page="managing-developer-relations/managing-the-burnout-burn-down.md" %}
+{% page-ref page="managing-a-devrel-team/managing-the-burnout-burn-down.md" %}
 
 > A research-based framework for recognising and managing overwork.
 
-{% page-ref page="managing-developer-relations/dev-events-beyond-2021.md" %}
+{% page-ref page="developer-evangelism/dev-events-beyond-2021.md" %}
 
 > Various well-known developer event organisers discuss what they see as being the future of gathering, talking about how events will look like in 2021 and beyond!
 
-{% page-ref page="managing-developer-relations/i-messed-up-and-im-going-to-get-fired.md" %}
+{% page-ref page="managing-a-devrel-team/i-messed-up-and-im-going-to-get-fired.md" %}
 
 > David G Simmons shares the reality, including potential upsides, of making mistakes.
 
