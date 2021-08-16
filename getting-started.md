@@ -154,3 +154,21 @@ Can you make good release notes by collating your commit messages? Eva Parish ar
 
 > David G Simmons shares the reality, including potential upsides, of making mistakes.
 
+
+
+### Miscellaneous
+
+{% page-ref page="misc/is-developer-relations-right-for-you.md" %}
+
+> How do you know whether moving into developer relations or DevRel is right for you?
+
+{% page-ref page="misc/tooling-your-way-to-a-great-devrel-team.md" %}
+
+> Christiano Betta talks about the importance of creating different tools and collecting metrics, especially for startups helping them grow more with a small team!
+
+{% page-ref page="misc/planning-your-devrel-career.md" %}
+
+> What is the career path in developer relations and how can you build a long-term plan for your own DevRel career?
+
+
+
