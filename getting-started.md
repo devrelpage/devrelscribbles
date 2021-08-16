@@ -10,6 +10,22 @@ description: >-
 
 {% page-ref page="./" %}
 
+### Developer Advocacy
+
+{% page-ref page="life-as-a-developer-advocate.md" %}
+
+> Take a look at the life of a developer advocate working at facebook's open-source team, taking a dive into a few tips, tips to be a great advocate and what does it take to be an advocate.
+
+{% page-ref page="modernizing-red-hats-enterprise-developer-program.md" %}
+
+> Joe Schram talks us through the process of putting developers back in the spotlight. You’ll hear how Red Hat have brought together their developer materials out of silos and into a single experience.
+
+{% page-ref page="untitled.md" %}
+
+> In this session from DevRelCon London 2019, Max Kahan talks about the importance of play in developer education.
+
+{% page-ref page="making-22-year-olds-love-26-year-old-software.md" %}
+
 
 
 ### Developer Experience
@@ -177,14 +193,6 @@ description: >-
 {% page-ref page="managing-a-devrel-team/i-messed-up-and-im-going-to-get-fired.md" %}
 
 > David G Simmons shares the reality, including potential upsides, of making mistakes.
-
-
-
-
-
-
-
-
 
 
 
