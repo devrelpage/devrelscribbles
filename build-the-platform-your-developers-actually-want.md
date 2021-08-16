@@ -1,3 +1,10 @@
+---
+description: >-
+  Biggest challenges in DevRel is determining which among the numerous possible
+  activities is the most leveraged. Jeff schnieder answers how he and his team
+  solved their challenges at Asana.
+---
+
 # Build the Platform Your Developers Actually Want
 
 {% embed url="https://youtu.be/AfmjrHMVgHA" caption="Video" %}
