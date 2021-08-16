@@ -16,6 +16,7 @@
 * [How far does your ethical responsibility stretch for the tech your devs create?](how-far-does-your-ethical-responsibility-stretch-for-the-tech-your-devs-create.md)
 * [Outside the lecture theatre](outside-the-lecture-theatre.md)
 * [How do you design programs for diversity?](how-do-you-design-programs-for-diversity.md)
+* [Build the Platform Your Developers Actually Want](build-the-platform-your-developers-actually-want.md)
 
 ## Developer Evangelism
 
