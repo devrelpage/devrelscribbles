@@ -122,15 +122,35 @@ Can you make good release notes by collating your commit messages? Eva Parish ar
 
 > Brandon West from Amazon AWS talks about how to manage a distributed developer relations team, especially where each person on the team tends to travel a lot.
 
-{% page-ref page="managing-a-devrel-team/distributed-developer-relations.md" %}
+{% page-ref page="managing-a-devrel-team/understanding-company-goals.md" %}
 
->
+> Whenever it has come asking as to "what is the main role of DevRel team"? The answer-- "It totally depends", which definitely raises more doubt in the mind of the person asking it.
 
+{% page-ref page="managing-a-devrel-team/devrel-qualified-leads-dql.md" %}
 
+> What's the ROI -- the metrics to measure them -- explaining it to an employee. With DevRel Qualified Leads you first set your own metrics that truly reflect the value of the work that you do.
 
+{% page-ref page="managing-a-devrel-team/path-to-success-for-devrel.md" %}
 
+> Scribble from Mary Thengvall's amazing blog "The DevRel Path To Success: Awareness, Enablement, Engagement", which talks about what are the key elements of a developer relations team.
 
+{% page-ref page="managing-a-devrel-team/untitled.md" %}
 
+> How does one move up in their organization as a DevRel? What does that "up" even look like if it even exists! Let's take notes from Chris Noring who is a Developer Advocate at Microsoft.
 
+{% page-ref page="managing-a-devrel-team/four-pillars-of-devrel.md" %}
 
+> To devise a DevRel strategy, one must understand their company's needs and the tactics that can be used to meet them. Let's take a look at the four pillars to understand all of this in a better way.
+
+{% page-ref page="managing-a-devrel-team/building-your-devrel-dream-team.md" %}
+
+> Let's take a look into knowing the key elements required to make a "DevRel dream team".
+
+{% page-ref page="managing-a-devrel-team/managing-the-burnout-burn-down.md" %}
+
+> A research-based framework for recognising and managing overwork.
+
+{% page-ref page="managing-a-devrel-team/i-messed-up-and-im-going-to-get-fired.md" %}
+
+> David G Simmons shares the reality, including potential upsides, of making mistakes.
 
