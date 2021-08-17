@@ -69,4 +69,5 @@
 * [Is developer relations right for you?](misc/is-developer-relations-right-for-you.md)
 * [Tooling your way to a great DevRel Team](misc/tooling-your-way-to-a-great-devrel-team.md)
 * [Planning your DevRel career](misc/planning-your-devrel-career.md)
+* [Success metrics as narratives](misc/success-metrics-as-narratives.md)
 
