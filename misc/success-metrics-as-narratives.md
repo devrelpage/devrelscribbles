@@ -7,6 +7,8 @@ description: >-
 
 # Success metrics as narratives
 
+
+
 {% embed url="https://youtu.be/MYi1eVKmJzY" caption="Video" %}
 
 ## Summary:
@@ -35,6 +37,8 @@ description: >-
   * Did you meet the expectations and goals that you set at the beginning?
   * Would you do it again?
 
+> _**Stop letting other people, organizations, teams, what have you, define your success.**_
+
 ## Scribbles:
 
 * Success looks different as you’re going across your DevRel activities.
@@ -47,17 +51,13 @@ description: >-
 
 > _**If we don’t present it with context and we don’t present it with that situational**_ **awareness, numbers are not going to gain that themselves.**
 
-  
-  
-
-
 * Numbers are open to interpretation and they especially have connotations.
   * 100%, or you have nothing, 0% -- not really true. 
   * In some cases, you may be working on improving a particular percentage to be within 20% or 30%. 
 * Numbers lack context and situational awareness
 * Numbers are open to interpretation
 * Numbers have connotations.
-* Numbers, even in the hands of the well intended, can become dangerous. 
+* Numbers, even in the hands of the well-intended, can become dangerous. 
 
 ### Language
 
@@ -68,48 +68,53 @@ description: >-
   * See how it was impactful for them 
   * The engagements or the connections that they made.
 
-#### Before the Happening\* 
 
-* \*Happening 
+
+### Before the Happening\* 
+
+* **\*Happening** 
   * the happening for you could be any sort of DevRel activity. 
   * Writing a blog
   * Conference talk
   * Hosting a virtual workshop. 
   * All of the things that you don’t have to travel to do.
-* Make sure that you’re evaluating previous iterations. 
+* **Make sure that you’re evaluating previous iterations.** 
   * “Did it make sense for us to attend this function, or did it make sense for us to be involved with this activity”?
-  * Go back and evaluate 
+  * **Go back and evaluate** 
     * What you did in that particular happening. 
     * Does it make sense to continue doing that? 
-* Setting expectations and setting an event-specific goal. 
-* Ask-  Does this align with your target developer persona?
-  *  or does it align with some sort of new functionality that we’re releasing.
+* **Setting expectations and setting an event-specific goal.** 
+* **Ask-  Does this align with your target developer persona?**
+  *  or does it align with some sort of new functionality that we’re releasing?
   *  or a new programming language functionality that’s coming on board.
 
-Quote We live in a very agile world, going back and iterating on these things is really important and it keeps your developer audience engaged.
+> _**We live in a very agile world, going back and iterating on these things is really important and it keeps your developer audience engaged.**_
 
-* This is where you need to start shaping your idea of success or your idea of failure.
+* **This is where you need to start shaping your idea of success or your idea of failure.**
+
+### 
 
 ### During the Happening\*
 
 * “How are you feeling about the expectations and goals?” 
   * Internal monologue if you’re there by yourself. 
-  * Questions to your team on day, you know, two or three of the particular things happening as you’re setting up or as you’re getting ready to continue going.
+  * Questions to your team on the day, you know, two or three of the particular things happening as you’re setting up or as you’re getting ready to continue going.
 * Do you need to reset anything? 
-  * But for workshops and conferences, this works really well .
+  * But for workshops and conferences, this works really well.
   * You’re able to level set with your crowd
 * Ask - Where is everyone? 
   * If they are splitting their time between your webinar and your competitor’s webinar.
 * Getting great technical questions
 * Setting up for job seekers 
 
-## After he Happening
+### After he Happening
 
-* Did you meet your expectations and goals that you set at the beginning?
+* Did you meet the expectations and goals that you set at the beginning?
 * Would you do it again?
 * This is where those numbers start to creep in. 
 
-Quote I want the best use of time for my developer relations folks. And if we’re not getting those technical questions or we’re not seeing the right developer audience, we’re going to just move on.   
+> _**I want the best use of time for my developer relations folks. And if we’re not getting those technical questions or we’re not seeing the right developer audience, we’re going to just move on.**_
+
 
 
 ### So, what should you do?
@@ -124,11 +129,5 @@ Quote I want the best use of time for my developer relations folks. And if we’
 * You want to share your goals and expectations 
 * Make sure that you’re gathering baselines.
 
-Quote Stop letting other people, organizations, teams, what have you, define your success.  
-  
-
-
-
-
-
+> _**Stop letting other people, organizations, teams, what have you, define your success.**_
 
