@@ -1,11 +1,13 @@
 ---
 description: >-
   What's the ROI -- the metrics to measure them -- explaining it to an employee.
-  With DevRel Qualified Leads you first set your own metrics that truly reflect
+  With DevRel Qualified Leads, you first set your own metrics that truly reflect
   the value of the work that you do.
 ---
 
 # DevRel Qualified Leads \(DQL\)
+
+
 
 {% embed url="https://youtu.be/YiteVwPT3m4" caption="Video" %}
 
