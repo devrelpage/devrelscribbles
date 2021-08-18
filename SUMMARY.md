@@ -63,6 +63,7 @@
 * [Building your DevRel dream team](managing-a-devrel-team/building-your-devrel-dream-team.md)
 * [Managing the burnout burn-down](managing-a-devrel-team/managing-the-burnout-burn-down.md)
 * [I messed up and I’m going to get fired](managing-a-devrel-team/i-messed-up-and-im-going-to-get-fired.md)
+* [How to report on community relationships without being creepy about it](managing-a-devrel-team/how-to-report-on-community-relationships-without-being-creepy-about-it.md)
 
 ## Misc
 
