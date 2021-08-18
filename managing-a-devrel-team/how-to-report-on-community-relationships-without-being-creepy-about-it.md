@@ -84,8 +84,8 @@ _\*\*\*\*_
 
 #### Authenticity
 
-* Acting on that feedback 
-* Really important to defend authentic DevRel behaviour. 
+* **Acting on that feedback** 
+* Really important to **defend authentic DevRel behaviour.** 
 * Being able to provide the right metrics. 
 * Metrics drive behaviour 
   * If something is celebrated in your company or your team, it’s going to influence the way that people act moving forward -- make sure that you have the right metrics in place. 
