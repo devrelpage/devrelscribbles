@@ -17,12 +17,19 @@ description: >-
   * Anything that allows a company to have your information, you are now in their system.
 * MQ Lead
   * A lead who has indicated an interest in what a brand has to offer based on marketing efforts. 
-* **What is DevRel Qualified Leads?** 
 * DevRel Qualified Leads - Business Metric To Prove Value
-* **IT’S AN ACCEPTED TERM IN THE BUSINESS WORLD.**
-* \_\_
-
-‌
+  * **IT’S AN ACCEPTED TERM IN THE BUSINESS WORLD.**
+* What is DevRel Qualified Leads? 
+  * It is an accepted term in the business world.
+  * It highlights our unique value.
+  * The need for a single metric that can be used across the industry.
+* **DQL Cases**
+  * Marketing: Case Study or Guest Content
+  * Product: Feedback or Beta Testing
+  * Engineering: Hard-to-solve Bugs
+  * Business Development / Partnerships: Integrations
+  * Recruiting: Potential New Hires
+  * Sales: Potential Customers
 
 ## Scribbles: 
 
