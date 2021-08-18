@@ -113,7 +113,7 @@ _\*\*\*\*_
 **Authenticity**
 
 * Focus not just on what you did but the learnings that came out of it. 
-  * You’re centred more on an objective of improving developer engagement. 
+  * You’re centred more on the objective of improving developer engagement. 
 * You’re not actually changing the way that they behave at all, zero. 
 * Reporting mechanism to feed into what they are focused on, which is improving developer engagement. 
 * And, not just for them, but also how do you share these learnings with the rest of your business to say, “Hey, as a whole company, “this is how we can better engage developers”? 
