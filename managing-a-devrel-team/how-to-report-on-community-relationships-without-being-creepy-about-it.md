@@ -79,7 +79,7 @@ _\*\*\*\*_
 * **Use the GDPR standards.** 
   * European standard for privacy. 
   * Use this as a building foundation for you to build up additional requirements that you wanna add to privacy filters.
-* Keep the reporting process a bit more open, and encourage more authentic dev rea behaviour. 
+* **Keep the reporting process a bit more open, and encourage more authentic dev rea behaviour.** 
 * Let people continue doing as they are doing without feeling pigeonholed.
 
 #### Authenticity
@@ -87,10 +87,10 @@ _\*\*\*\*_
 * **Acting on that feedback** 
 * Really important to **defend authentic DevRel behaviour.** 
 * Being able to provide the right metrics. 
-* Metrics drive behaviour 
+* **Metrics drive behaviour** 
   * If something is celebrated in your company or your team, it’s going to influence the way that people act moving forward -- make sure that you have the right metrics in place. 
   * Authentic dev rea behaviour, we have metrics that are qualitative and quantitative at the same time.
-* Defend authentic dev rel behaviour 
+* **Defend authentic dev rel behaviour** 
   * Come up with something really creative and new to engage the developer community.
   * Open-ended to be able to celebrate things that are new and creative as well. 
 
@@ -102,20 +102,20 @@ _\*\*\*\*_
 
 #### Privacy
 
-* Optimizing the reporting process in a sense of being more community-focused. 
+* **Optimizing the reporting process in a sense of being more community-focused.** 
 * But what if we also moved away from individuals as a whole? 
 * Reporting --  focusing on the community only. 
-* The community is the thing that matters, not the individual. 
-  * Individuals in the community keep changing, it's natural it's fine. 
+* **The community is the thing that matters, not the individual.** 
+  * **Individuals in the community keep changing, it's natural it's fine**. 
 * Encouragement to become more inclusive in the developer environment and not the potentially toxic behaviour of focusing on a few exclusive individuals. 
 
   
 **Authenticity**
 
-* Focus not just on what you did but the learnings that came out of it. 
+* **Focus not just on what you did but the learnings that came out of it.** 
   * You’re centred more on the objective of improving developer engagement. 
 * You’re not actually changing the way that they behave at all, zero. 
-* Reporting mechanism to feed into what they are focused on, which is improving developer engagement. 
+* **Reporting mechanism to feed into what they are focused on, which is improving developer engagement.** 
 * And, not just for them, but also how do you share these learnings with the rest of your business to say, “Hey, as a whole company, “this is how we can better engage developers”? 
 * And, it’s not just what we did, but it’s more important than the learnings and the best practices that came out of it.
 
