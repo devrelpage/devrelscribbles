@@ -124,12 +124,12 @@ description: >-
 
 ### Implement Strategy
 
-* Program your initiatives 
+* **Program your initiatives** 
   * Setting up programs for what you’re working on. 
-* Creating measurements 
+* **Creating measurements** 
   * What is it that you are measuring?
   * You need to set that measurement up. And with that reporting ideally. And then
-* Communication 
+* **Communication** 
 
 ###  Program your initiatives
 
