@@ -141,28 +141,28 @@ description: >-
 
 ### Creating measurements
 
-* Developer Engagements 
+* **Developer Engagements** 
   * How many people were in your audience? 
   * I’m giving a talk here so I can report back that x many people showed up and heard me speak. 
 * Example - Goal as a company and we want to be in this forum, and we want to measure how many users are on there, and how many active users are there.
 
 ### Communication. 
 
-* Communicate internally. 
-* Because then nobody in your company knows what you did. 
-  * They think you’re doing work.
-  *  But you have to communicate that. And that may look different in a lot of different places.
-* Letting the company know what you’re working on is really key 
+* **Communicate internally.** 
+  * Because then nobody in your company knows what you did. 
+    * They think you’re doing work.
+    *  But you have to communicate that. And that may look different in a lot of different places.
+* **Letting the company know what you’re working on is really key.** 
   * Important because they may not know and maybe they missed the email because we get a lot of them.
   * That’s really big and it won’t take much of your time. 
-* Doing an internal wiki to showcase your work. 
+* **Doing an internal wiki to showcase your work.** 
   * Have a homepage page that shows what we’re up to, here’s what we’re working on, and come talk to us about it.
-* Sitting in on other department meetings.
+* **Sitting in on other department meetings.**
   * Coming into your partner department and going and asking what they’re up to.
   * Learning about what they are working on once a month or whatever that cadence looks like is really important. 
-* Doing event recap internally and externally
+* **Doing event recap internally and externally.**
   *  Do a quick recap on why you thought it was important for the developer community. 
-* Team meetings
+* **Team meetings**
   * Having an open invitation for any department to come to join your teams. 
 
 
