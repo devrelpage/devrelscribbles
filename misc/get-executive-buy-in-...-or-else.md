@@ -1,11 +1,11 @@
 ---
 description: >-
-  Jessica West, who heads-up developer relations for LaunchDarkly, lays out the
+  Jessica West, who heads up developer relations for LaunchDarkly, lays out the
   importance to any developer relations programme of having the support and
   commitment of the company’s leadership.
 ---
 
-# Get executive buy-in … or else
+# Get executive buy-in or else
 
 {% embed url="https://youtu.be/BUt77eE5QRI" caption="Video" %}
 

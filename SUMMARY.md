@@ -71,5 +71,5 @@
 * [Tooling your way to a great DevRel Team](misc/tooling-your-way-to-a-great-devrel-team.md)
 * [Planning your DevRel career](misc/planning-your-devrel-career.md)
 * [Success metrics as narratives](misc/success-metrics-as-narratives.md)
-* [Get executive buy-in … or else](misc/get-executive-buy-in-...-or-else.md)
+* [Get executive buy-in or else](misc/get-executive-buy-in-...-or-else.md)
 
