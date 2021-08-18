@@ -10,7 +10,7 @@ description: >-
 
 ## Summary:
 
-* 3 Step Process
+* * _3 Step Process_
   * Listening 
   * Acting on feedback 
   * Optimising
@@ -21,7 +21,7 @@ description: >-
 ### Why it can be creepy
 
 * It’s around the business value that 
-  * As dev rel professionals we are paid to do a job. 
+  * As dev rel professionals, we are paid to do a job. 
   * And at the end of the day, those stakeholders, in order to continue their investment, will continue to ask us
     * “What is it exactly that you’re doing? 
     * What is the business impact you’re bringing back to our business?
@@ -57,8 +57,9 @@ description: >-
 * Be more invested to give you better engagement and better feedback for you to improve that technology
 * It’s a symbiotic relationship
 
-Quote  “Oh, I’ve done 10 community connections”, “I’ve done 10 trips, duh, duh, duh, duh, duh” it becomes a number. And, by making these things a number, are we dumbing it down to something that is so much less than the meaningful relationships that we make?   
+> _**Oh, I’ve done 10 community connections, “I’ve done 10 trips, duh, duh, duh, duh, duh” it becomes a number. And, by making these things a number, are we dumbing it down to something that is so much less than the meaningful relationships that we make?**_
 
+_\*\*\*\*_
 
 ### Acting on feedback 
 
