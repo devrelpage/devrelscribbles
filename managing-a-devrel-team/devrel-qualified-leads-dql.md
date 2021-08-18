@@ -11,7 +11,7 @@ description: >-
 
 {% embed url="https://www.marythengvall.com/blog/2019/12/14/devrel-qualified-leads-repurposing-a-common-business-metrics-to-prove-value" caption="Blog" %}
 
-## Summary: 
+## Summary:
 
 * Marketing Qualified Leads
   * Anything that allows a company to have your information, you are now in their system.
@@ -19,7 +19,7 @@ description: >-
   * A lead who has indicated an interest in what a brand has to offer based on marketing efforts. 
 * **What is DevRel Qualified Leads?** 
 * DevRel Qualified Leads - Business Metric To Prove Value
-* _IT’S AN ACCEPTED TERM IN THE BUSINESS WORLD._
+* **IT’S AN ACCEPTED TERM IN THE BUSINESS WORLD.**
 * \_\_
 
 ‌
