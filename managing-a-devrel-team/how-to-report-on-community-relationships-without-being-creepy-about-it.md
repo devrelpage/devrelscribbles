@@ -15,7 +15,9 @@ description: >-
     * When push comes to shove and everything is happening really, really quickly, it’s hard to remember to listen. 
     * Function as a team, don’t function as individuals. 
   * **Acting on feedback** 
+    * If you create something, you have a responsibility to listen, but you also have an accountability to act on the feedback that you will receive.
   * **Optimising**
+    * How do you optimize it a step further so that you can not only just meet requirements but also lead the conversation? 
 * Anything in the developer ecosystem, things are always gonna change, things always need to refresh, and this is the only way that will keep relevant, and to keep improving.
 
 ## Scribbles: 
@@ -98,7 +100,7 @@ _\*\*\*\*_
 
 * How do you know you’re going in the right direction?
 * How do you know your reporting program’s going in the right direction? 
-* How do you then take that and optimize it a step further so that you can not only just meet requirements but also lead the conversation? 
+* How do you optimize it a step further so that you can not only just meet requirements but also lead the conversation? 
 
 #### Privacy
 
