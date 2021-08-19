@@ -72,4 +72,5 @@
 * [Planning your DevRel career](misc/planning-your-devrel-career.md)
 * [Success metrics as narratives](misc/success-metrics-as-narratives.md)
 * [Get executive buy-in or else](misc/get-executive-buy-in-...-or-else.md)
+* [Introduction to the AAARRRP devrel strategy framework](misc/introduction-to-the-aaarrrp-devrel-strategy-framework.md)
 
