@@ -83,7 +83,7 @@ description: >-
 
 * **Define your goals with AAARRP**
 
-![](https://lh4.googleusercontent.com/6H5XTPviELjL967sc4j9mq4CjgyjNj8tVEW0NGdXiKCdaQd9swpNs-NQ-5xcmxeeSMiiAvsh9QcWBf461GUZR9a4AMlxAPNfzxvhHl8W4lEBP7n50u9yaIBn9ItMFcjl8i4JX-E)
+![Example of Goals using AAARRRP](../.gitbook/assets/screenshot-2021-08-19-at-5.25.30-am.png)
 
 * **Define activities to meet your goals**
   * Identify what the activities are that achieve goals. 
@@ -91,10 +91,8 @@ description: >-
   * That’s a good way of utilizing your time well. 
   * And can you find complementary activities, something that feeds into the next?
 
-![](https://lh4.googleusercontent.com/NIOq4wlJbY_zYg0CSJwIBLWfALwtfL0Pdb7K7KgeG-paqwrNGqTwX7uRIO5tsWINZHFeFeKLRSba3R3fqInYQIwWH5fK6sfSsUo6445WeqZjjynMkITEjaDHudTFhuAQ53YJ41Y)
+![Sorts things that are going to help us achieve those goals. ](../.gitbook/assets/screenshot-2021-08-19-at-5.33.51-am.png)
 
-* Sorts of things that are going to help us achieve those goals. 
-* Events. Hackathons specifically for us. When we’re trying to improve that developer experience, we’re going to get a lot of good feedback at hackathons when we sit down with people trying to use our product. Great for awareness. Great for activation. People have to sign up to use your product. And obviously great for that feedback mechanism.
 * **Planning the execution -- finding activities that help meet more than one goal.** 
   * Some weighting.
   * Need to put some additional effort into certain things such as documentation, so we’ve added a weighting column. 
