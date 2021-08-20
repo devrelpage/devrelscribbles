@@ -17,6 +17,7 @@
 * [Outside the lecture theatre](outside-the-lecture-theatre.md)
 * [How do you design programs for diversity?](how-do-you-design-programs-for-diversity.md)
 * [Build the Platform Your Developers Actually Want](build-the-platform-your-developers-actually-want.md)
+* [Measuring dev rel programs far beyond marketing activities](measuring-dev-rel-programs-far-beyond-marketing-activities.md)
 
 ## Developer Evangelism
 
