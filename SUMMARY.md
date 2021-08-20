@@ -50,6 +50,7 @@
 * [Managing communities at scale](community-management/managing-communities-at-scale.md)
 * [Using community to drive growth](community-management/using-community-to-drive-growth.md)
 * [Useful community success metrics](community-management/how-different-folks-from-various-backgrounds-started-building-community-and-what-worked-for-them..md)
+* [Communities aren't funnels](community-management/communities-arent-funnels.md)
 
 ## Managing a DevRel Team
 
