@@ -8,27 +8,25 @@ description: >-
 
 {% embed url="https://youtu.be/chCNaq-M76I" caption="Video" %}
 
-
-
 ## Summary: 
 
-* Three stages of building a developer relations strategy
-  * Understand where you are. 
+* Three stages of **building a developer relations strategy**
+  * **Understand where you are.** 
     * Know what the situation is right now. 
-  * What it is in the world that you want to change 
+  * **What it is in the world that you want to change** 
     * Know where you are, where you want to be. 
-  * Create a plan of action to make that happen.
-* DevRel specialised marketing.
+  * **Create a plan of action to make that happen.**
+* **DevRel specialised marketing.**
   * Developers aren’t just another audience. 
   * Developer-targeted tools aren’t just another product. 
   * Maybe the audience knows more about the product than you do. 
-* DevRel - AAARRRP Framework
-* Four pillars of DevReL
+* **DevRel - AAARRRP Framework**
+* **Four pillars of DevReL**
   * Outreach
   * Community
   * Developer experience
   * Development and support
-* DevRel Situational Analysis
+* **DevRel Situational Analysis**
   * Product
   * Competition
   * Company 
@@ -53,9 +51,9 @@ When you think of it in other terms, then it’s very easy to get lost and detac
 
 ### Developer-targeted tools aren’t just another product. 
 
-* U can’t fudge this -- They’re betting their careers and they’re credibility on the choice of tool that they make. 
+* U can’t fudge this -- They’re betting their careers and their credibility on the choice of tool that they make. 
 * They believe you, and they test it 
-  * At production it goes ahead and it fails massively and they lose their job, then the stakes are higher.
+  * At production, it goes ahead and it fails massively and they lose their job, then the stakes are higher.
 * People really need to be able to trust that what you’re saying is true. 
 
 ### Maybe the audience knows more about the product than you do. 
@@ -69,7 +67,11 @@ When you think of it in other terms, then it’s very easy to get lost and detac
 
 ### The Dev Rel funnel
 
-* AAARP DevRel Strategy  !\[Link the page\]   
+* AAARP DevRel Strategy
+
+{% page-ref page="introduction-to-the-aaarrrp-devrel-strategy-framework.md" %}
+
+
 
 ### Four pillars of DevRel
 
@@ -88,7 +90,7 @@ When you think of it in other terms, then it’s very easy to get lost and detac
 
 #### Developer experience 
 
-* API and SDK design, the documentation, the on-boarding process.
+* API and SDK design, the documentation, the onboarding process.
 
 #### Development and support
 
@@ -99,7 +101,7 @@ When you think of it in other terms, then it’s very easy to get lost and detac
 * If you plan well, then you’ve already won the battle. 
 * A lot of developer relations is done off the cuff, is done without planning.
   *  It’s done without thinking about strategy.
-* We need to understand where we are before we can plan on where to go.  
+* We need to understand where we are before we can plan on where to go. 
 
 ### Product
 
@@ -125,41 +127,40 @@ Quote If you’re not building something that makes the world different somehow,
 * Challenger.
   * Companies who are probably doing things that challenge the market leader, do more interesting things in some ways, but they’re not quite at the top yet.
 * Niche Player
-  * Company who are plowing their own furrow, they’re doing their own thing.
+  * Companies who are doing their own thing.
   * They’re quite happily bobbing along.
-  * They’re carving out small business for themselves in a particular area.
+  * They’re carving out small businesses for themselves in a particular area.
 * Shooting star. 
-  * Company that’s got far too much venture money. 
+  * A company that’s got far too much venture money. 
   * It’s spending it like crazy. 
-  * Survive probably till the end of the year unless they get another funding round, but the problem is they’re stealing all the oxygen because they’re spending loads of money.
-  * Fight against them.   
+  * Survive probably till the end of the year unless they get another funding round, but the problem is they’re stealing all the oxygen because they’re spending loads of money. 
 
 #### Who are your target developers?
 
 * Different drivers that send people towards and away from your product. 
 * Understand these drivers by asking a bunch of questions.
-* Technical Drivers
+* **Technical Drivers**
   * You know, does it only run on Windows?
-  * Does it require one or other particular language? 
+  * Does it require one or another particular language? 
   * Does it require a particular platform? 
   * Which technical use cases does it best suit?
   * Where does it sit in the development lifecycle?
   *  Will greatly influence how we approach the market.
-* Developer Drivers
+* **Developer Drivers**
   * Questions about the developer themselves, the individual who you’re talking to. 
   * How much commitment does our product require of developers?
   * What languages are they interested in?
   * What languages are they using? 
-* Organisation Drivers 
+* **Organisation Drivers** 
   * What sorts of organisations have a need for this? 
   * What sorts of companies should we be approaching? 
   * Where will they be earning their living or building their software?
-* Market Drivers 
+* **Market Drivers** 
   * Competition
   * What’s happening in the industry currently? 
   * Locations that might suit your needs.
 
-## Climate
+### Climate
 
 * Create segments in the market or amongst developers. 
 * Once you have a bunch of segments that you’ve listed out, you can start to decide who to target. 
