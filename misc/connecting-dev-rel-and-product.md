@@ -11,11 +11,21 @@ description: >-
 ## Summary:
 
 * **Communicate Consistently** 
-  * 
+  * Finding channels that work 
+  * Assigning somebody from the DevRel team to show up to stand-ups. 
+  * You’ll always have people’s ear when you’re there with them in person.
+  * Giving context in the moment
+  * Bring good or neutral news as often as bad news.
+  * Get your developers to come and do a brown bag with people who are building your platform. 
 * **Be both Filter and Funnel**
-  * 
+  * Dig deeper on customer requests
+  * Communication is key
+    * People might want things fixed now. 
+  * They think that you might have infinite engineering capacity. 
+  * Communicating back with customers.
 * **Close the loop**
-  * 
+  * **Be transparent about the feature status**
+  * **Show internal teams their impact**
 * It’s always an ongoing process and it’s different as teams grow. 
 * It’s different as you get new leadership. 
 * Every company you’re going to be working at is slightly different. 
