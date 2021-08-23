@@ -6,8 +6,6 @@ description: >-
 
 # Performance DevRel
 
-
-
 {% embed url="https://youtu.be/fCMqvQTXqTo" caption="Video" %}
 
 ## Summary:
