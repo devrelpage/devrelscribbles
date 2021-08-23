@@ -77,4 +77,5 @@
 * [Introduction to the AAARRRP devrel strategy framework](misc/introduction-to-the-aaarrrp-devrel-strategy-framework.md)
 * [Strategy for developer outreach](misc/strategy-for-developer-outreach.md)
 * [Connecting dev rel and product](misc/connecting-dev-rel-and-product.md)
+* [Performance DevRel](misc/performance-devrel.md)
 
