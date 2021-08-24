@@ -52,6 +52,7 @@
 * [Using community to drive growth](community-management/using-community-to-drive-growth.md)
 * [Useful community success metrics](community-management/how-different-folks-from-various-backgrounds-started-building-community-and-what-worked-for-them..md)
 * [Communities aren't funnels](community-management/communities-arent-funnels.md)
+* [How to mobilise your community during a pandemic](community-management/how-to-mobilise-your-community-during-a-pandemic.md)
 
 ## Managing a DevRel Team
 
