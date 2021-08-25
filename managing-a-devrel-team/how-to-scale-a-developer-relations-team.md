@@ -122,7 +122,7 @@ description: >-
   * Are you booking all your travel yourself or is there someone, a vendor or an agency who can help you? 
 * There are organizations that can help you. 
 * **Swag.** 
-  * Problem when we have swags being produced centrally, not headquarters. And we’re trying to ship it worldwide. 
+  * Procblem when we have swags being produced centrally, not headquarters. And we’re trying to ship it worldwide. 
   * Way too expensive if your developers are in emerging markets.
   * Shipping cost. 
   * Producing locally. 
