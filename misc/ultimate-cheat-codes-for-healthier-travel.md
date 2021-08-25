@@ -7,9 +7,7 @@ description: >-
 
 # Ultimate cheat codes for healthier travel
 
-{% embed url="https://www.youtube.com/watch?v=7StXrinjp7g" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=7StXrinjp7g" caption="Video" %}
 
 ## Summary: 
 
