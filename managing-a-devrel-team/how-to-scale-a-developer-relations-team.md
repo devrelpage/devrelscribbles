@@ -55,18 +55,18 @@ description: >-
 
 ### Teams 
 
-* What kind of personas exist in dev rel world? 
-* What kind of roles exist? 
+* What kind of personas exists in the DevRel world? 
+* What kind of roles exists? 
 * **Developer Advocate** is a much more common word being used now. 
   * Folks who go on stage. 
   * The ones that go at events. 
-  * At meet-ups and talk. 
+  * At meet-ups and talks. 
   * Go behind the camera and record talks -- share more scalably
   * Public face for your developer programs and your platform. 
 * **Community Manager**. 
   * Very quickly, if your product is starting to get traction, there will be a community that will build around it. 
   * Folks who are helping swags for meet-ups, helping buy pizza for the hackathon. 
-  * Helping run events if your company has to run those first party events themselves. 
+  * Helping run events if your company has to run those first-party events themselves. 
 * **Other roles** -- Developer Program Engineers, Developer Advocates are going and talking about the vision of the platform, getting people excited.
 * **Specialized roles like Developer Program Engineers exist.** 
   * In many companies, especially if the dev rel team is fairly small, Developer Advocates will be doing the same responsibility.
